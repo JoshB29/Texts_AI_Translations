@@ -1,0 +1,870 @@
+{
+  "oc": [
+    {
+      "siman_num": 404,
+      "seif_num": 2,
+      "hebrew": "והטור כתב, דיש תחומין למעלה מעשרה, משום דהרא\"ש כתב דבעיא זו לא אפשיטא - ועבדינן לחומרא ע\"ש. וכבר תמהו עליו רבים וגדולים, ויש מי שתרצו דכיון שספק זה נשאר לחכמי הגמרא לכולם - לפיכך החמיר. (ב\"ח וק\"נ שם) ואני תמה על זה, דזה ניחא לענין 'הלכה כדברי המיקל בעירוב', דבכאן אין מי שמיקל והספק לכולם. אבל אין זה ענין ל'ספיקא דרבנן לקולא', דבהרבה מקומות בש\"ס בבעיא דלא אפשיטא בדרבנן אזלינן לקולא. ולעניות דעתי נראה בטעמו, משום דהרי\"ף לא הביא כלל בעיא זו, ואי הוה סבירא ליה לקולא - הווה ליה להביא. אבל כשלא הביא - סתמא כפירושו דיש תחומין. וטעמם נראה, משום דבגמרא שם רצו לפשוט דיש תחומין מהמשנה דמי שהוציאוהו, דרבן גמליאל וחביריו באו מן הים, ואמר להם מסתכל הייתי שהיינו בתוך התחום קודם חשיכה - אלמא דיש תחומין, שהרי הים הוא למעלה מעשרה. ותרצו בגמרא - במהלכת הספינה ברקק שהמים פחותים מי' טפחים ע\"ש. וסבירא ליה להרי\"ף והרא\"ש שרק דיחוי בעלמא הוא, וסתמא אינו כן. וגם מירושלמי מבואר, שפירשו הספינה דרבן גמליאל כפשטה ע\"ש, וכן מבואר מהרי\"ף. וראיתי מי שכתב דדעת הרי\"ף נראה לקולא, (ב\"י בשם רי\"ו) ולא ידעתי מנא ליה לומר כן. מיהו לדינא קיימא לן כרוב הפוסקים לקולא וכפסק הש\"ע. (ומ\"ש הרי\"ף בפרק קמא דשבת זהו בשם יש מי שאומר ודחה זה מטעם אחר ע\"ש ודו\"ק)",
+      "levels": {
+        "MINIMAL": {
+          "translation": "The Tur wrote that there are techumin above ten, because the Rosh wrote that this inquiry was not resolved—and we act stringently; see there. Many great authorities have already wondered at him, and there are those who answered that since this doubt remained for all the sages of the Gemara—therefore he was stringent. (Bach and Korban Netanel there) And I wonder at this, for this is well regarding the matter of \"the halacha follows the one who is lenient in eruv,\" for here there is no one who is lenient and the doubt is for everyone. But this is not relevant to \"a doubt in a rabbinic matter is judged leniently,\" for in many places in the Shas, regarding an inquiry that was not resolved in a rabbinic matter, we follow the lenient view. And in my humble opinion, his reason appears to be because the Rif did not bring this inquiry at all, and if he held it should be lenient—he should have brought it. But when he did not bring it—his silence is like his explanation that there are techumin. And their reason appears to be because in the Gemara there they wanted to resolve that there are techumin from the Mishnah regarding one whom they took out, where Rabban Gamliel and his colleagues came from the sea, and he said to them: I was observing that we were within the techum before dark—consequently there are techumin, for the sea is above ten. And they answered in the Gemara—when the ship travels in shallow water where the water is less than ten tefachim; see there. And the Rif and the Rosh hold that this is merely a rejection, and ordinarily it is not so. And also from the Yerushalmi it is clear, for they explained Rabban Gamliel's ship according to its plain meaning; see there, and so it is clear from the Rif. And I saw one who wrote that the opinion of the Rif appears to be lenient, (Beit Yosef in the name of Rabbeinu Yerucham) and I do not know from where he has this to say so. However, for the law we hold like the majority of the poskim to be lenient and like the ruling of the Shulchan Aruch. (And what the Rif wrote in the first chapter of Shabbat, that is in the name of \"there is one who says\" and he rejected this for another reason; see there and examine it closely)",
+          "tokens_in": 1558,
+          "tokens_out": 515,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 2073,
+          "latency_s": 3.24
+        },
+        "LOW": {
+          "translation": "And the Tur wrote that there are techumin above ten [handbreadths], because the Rosh wrote that this inquiry was not resolved—and we act stringently; see there. Many great authorities have already wondered about him, and there are those who answered that since this doubt remained for all the sages of the Gemara—therefore he was stringent. (Bach and Korban Netanel there) And I wonder about this, for this is well-settled regarding the matter of \"the halacha follows the one who is lenient in eruv,\" for here there is no one who is lenient and the doubt is for everyone. But this is not relevant to \"a doubt in rabbinic law is judged leniently,\" for in many places in the Shas, regarding an inquiry that was not resolved in rabbinic law, we follow the lenient view. And in my humble opinion, his reason appears to be because the Rif did not bring this inquiry at all, and if he had held it was lenient—he should have brought it. But when he did not bring it—his silence is like his explanation that there are techumin. And their reason appears to be because in the Gemara there they wanted to resolve that there are techumin from the Mishnah regarding one whom they took out, for Rabban Gamliel and his colleagues came from the sea, and he said to them: I was observing that we were within the techum before dark—consequently there are techumin, for behold the sea is above ten [handbreadths]. And they answered in the Gemara—when the ship travels in shallow water where the water is less than ten tefachim; see there. And the Rif and the Rosh hold that it is merely a rejection, and normally it is not so. And also from the Yerushalmi it is clear, for they explained Rabban Gamliel's ship according to its plain meaning; see there, and so it is clear from the Rif. And I saw someone who wrote that the opinion of the Rif appears to be lenient, (Beit Yosef in the name of Rabbeinu Yerucham) and I do not know from where he has this to say so. However, for the law, we hold like the majority of the poskim to be lenient and like the ruling of the Shulchan Aruch. (And what the Rif wrote in the first chapter of Shabbat, that was in the name of \"there is one who says\" and he rejected this for another reason; see there and examine carefully)",
+          "tokens_in": 1558,
+          "tokens_out": 526,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 2084,
+          "latency_s": 3.47
+        },
+        "MEDIUM": {
+          "translation": "And the Tur wrote that there are techumin above ten, because the Rosh wrote that this ba'aya was not resolved—and we act le-chumra; see there. And many and great scholars have already wondered about him, and there are those who answered that since this doubt remained for all the sages of the Gemara—therefore he was stringent. (Bach and Korban Netanel there) And I wonder about this, for this is well regarding the matter of \"the law follows the words of the one who is lenient in eruv,\" for here there is no one who is lenient and the doubt belongs to everyone. But this is not relevant to \"a doubt regarding a rabbinic law is le-kula,\" for in many places in the Shas, in a ba'aya that was not resolved regarding a rabbinic law, we follow le-kula. And in my humble opinion, his reason appears to be because the Rif did not bring this ba'aya at all, and if he held le-kula—he should have brought it. But when he did not bring it—the silence is like its explanation that there are techumin. And their reason appears to be because in the Gemara ibid. they wanted to resolve that there are techumin from the Mishnah of \"one whom they took out,\" where Rabban Gamliel and his companions came from the sea, and he said to them, \"I was observing that we were within the techum before dark\"—consequently, there are techumin, for the sea is above ten. And they answered in the Gemara—that it refers to when the ship is traveling in a shallow area where the water is less than ten handbreadths; see there. And the Rif and the Rosh hold that it is merely a rejection, and ordinarily it is not so. And also from the Yerushalmi it is clear, for they explained the ship of Rabban Gamliel according to its plain meaning; see there, and so it is clear from the Rif. And I saw someone who wrote that the opinion of the Rif appears to be le-kula, (the Beit Yosef in the name of Rabbeinu Yerucham) and I do not know from where he has the basis to say so. However, for the law we hold like the majority of the poskim le-kula and like the ruling of the Shulchan Aruch. (And what the Rif wrote in the first chapter of Shabbat, this is in the name of \"there is one who says\" and he rejected this for another reason; see there and examine it closely.)",
+          "tokens_in": 1558,
+          "tokens_out": 547,
+          "tokens_thinking": 23038,
+          "tokens_cached": null,
+          "tokens_total": 25143,
+          "latency_s": 96.9
+        },
+        "HIGH": {
+          "translation": "And the Tur wrote that there are techumin above ten, because the Rosh wrote that this inquiry was not resolved—and we act stringently; see there. And many and great have already wondered about him, and there are those who answered that since this doubt remained for all the sages of the Gemara—therefore he was stringent. (Bach and K.N. there) And I wonder about this, for this is understandable regarding the matter of \"the law follows the words of the one who is lenient in eruv,\" for here there is no one who is lenient and the doubt is for everyone. But this is not relevant to \"a doubt in rabbinic law is [resolved] leniently,\" for in many places in the Shas, in an inquiry that was not resolved in rabbinic law, we follow the lenient view. And in my humble opinion, his reason appears to be because the Rif did not bring this inquiry at all, and if he held it was lenient—he should have brought it. But when he did not bring it—his silence is like an explanation that there are techumin. And their reason appears to be because in the Gemara there, they wanted to resolve that there are techumin from the Mishnah of \"one whom they took out,\" for Rabban Gamliel and his companions came from the sea, and he said to them, \"I was observing that we were within the techum before dark\"—consequently there are techumin, for the sea is above ten. And they answered in the Gemara—where the ship was traveling in shallow water where the water is less than ten handbreadths; see there. And the Rif and the Rosh hold that it is merely a rejection, and normally it is not so. And also from the Yerushalmi it is clear, for they explained the ship of Rabban Gamliel according to its plain meaning; see there, and so it is clear from the Rif. And I saw one who wrote that the opinion of the Rif appears to be lenient, (the Beit Yosef in the name of Rabbeinu Yerucham) and I do not know from where he has [the basis] to say so. However, for the law, we hold like the majority of the poskim to be lenient and like the ruling of the Shulchan Aruch. (And what the Rif wrote in the first chapter of Shabbat, that was in the name of \"there is one who says\" and he rejected this for another reason; see there and examine it well.)",
+          "tokens_in": 1558,
+          "tokens_out": 527,
+          "tokens_thinking": 23038,
+          "tokens_cached": null,
+          "tokens_total": 25123,
+          "latency_s": 97.07
+        }
+      }
+    },
+    {
+      "siman_num": 76,
+      "seif_num": 20,
+      "hebrew": "יראה לי דכשם שאסור לקרות ולהתפלל כנגד מי רגלים מדרבנן, כמו כן אסור נגד כל דבר המאוס, כמו הקאות שמקיא, או הרבה מליחות האף, וכיחו וניעו מליחות הרוקים המתועבים, דלא גריעא ממי רגלים. ו\"הכון לקראת אלהיך ישראל\". ויש מי שמקיל בזה, ולא נראה לי. ועוד נראה דאם קרא כנגד אשפה, והלך לו ולא בדק, אף שעשה איסור מכל מקום אינו צריך לחזור ולקרות, אלא אם כן הוחזק בוודאי שיש שם צואה. (ויש שלא כתב כן, עיין ביאור הלכה. ולי נראה כמו שכתבתי, ודייק ותמצא קל.)",
+      "levels": {
+        "MINIMAL": {
+          "translation": "It appears to me that just as it is forbidden to recite and to pray facing urine by rabbinic decree, so too it is forbidden facing any repulsive thing, such as vomit, or a great deal of nasal discharge, and phlegm and mucus which are loathsome discharges of saliva, for they are no less than urine. And \"Prepare to meet your God, O Israel.\" And there is one who is lenient in this, but it does not appear so to me. Furthermore, it appears that if one recited facing a rubbish heap and went on his way without checking, even though he committed a prohibition, nevertheless he does not need to return and recite, unless it was certainly established that there was excrement there. (And there is one who did not write so, see Biur Halacha. And to me it appears as I have written, and examine carefully and you will find it simple.)",
+          "tokens_in": 1194,
+          "tokens_out": 189,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1383,
+          "latency_s": 1.4
+        },
+        "LOW": {
+          "translation": "It appears to me that just as it is forbidden to recite and to pray facing urine by rabbinic law, so too it is forbidden facing any repulsive thing, such as vomit that one vomits, or a great deal of nasal discharge, and phlegm and mucus which are loathsome discharges of saliva, for it is no less than urine. And \"prepare to meet your God, O Israel.\" And there is one who is lenient in this, but it does not appear so to me. Furthermore, it appears that if one recited facing a rubbish heap, and went on his way and did not check, even though he committed a prohibition, nevertheless he does not need to return and recite, unless it was certainly established that there was feces there. (And there is one who did not write so, see Beiur Halacha. And it appears to me as I have written, and be precise and you will find it simple.)",
+          "tokens_in": 1194,
+          "tokens_out": 195,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1389,
+          "latency_s": 1.64
+        },
+        "MEDIUM": {
+          "translation": "It appears to me that just as it is forbidden to recite and pray facing urine by rabbinic law, so too it is forbidden facing anything repulsive, such as vomit, or much nasal discharge, and phlegm and mucus—repulsive discharges of spit—for they are no worse than urine. And \"Prepare to meet your God, O Israel.\" And there is one who is lenient in this, but it does not appear to me. And it further appears that if one recited facing a garbage heap, and went on his way and did not check, even though he committed a prohibition, nevertheless he does not need to repeat the recitation, unless it was established with certainty that there was excrement there. (And there is one who did not write so, see Biur Halacha. And it appears to me as I have written; examine [it] and you will find [it] easy.)",
+          "tokens_in": 1194,
+          "tokens_out": 188,
+          "tokens_thinking": 5776,
+          "tokens_cached": null,
+          "tokens_total": 7158,
+          "latency_s": 27.34
+        },
+        "HIGH": {
+          "translation": "It appears to me that just as it is forbidden to recite and to pray facing mei raglayim mi-d'rabbanan, so too it is forbidden facing any disgusting thing, such as vomit that one vomits, or much nasal mucus, and phlegm and spit, the mucus of loathsome saliva, for it is no less than mei raglayim. And \"Prepare to meet your God, O Israel.\" And there is one who is lenient in this, but it does not appear to me. Furthermore, it appears that if one recited facing garbage, and went on his way and did not check, even though he committed a prohibition, nevertheless he does not need to go back and recite, unless it was certainly established that there was tzoah there. (And there is one who did not write so, see Biur Halacha. And it appears to me as I have written, and examine and you will find it easy.)",
+          "tokens_in": 1194,
+          "tokens_out": 199,
+          "tokens_thinking": 18099,
+          "tokens_cached": null,
+          "tokens_total": 19492,
+          "latency_s": 80.89
+        }
+      }
+    },
+    {
+      "siman_num": 12,
+      "seif_num": 9,
+      "hebrew": "ולפי זה לשיטה זו כשנחתכו שלושה ראשים מהשמונה חוטין, אף על פי שנשתייר בהם כדי עניבה – פסול, דחיישינן דשמא הם משלושה חוטין, ואם כן לא נשאר שנים שלמים. ואין חילוק בין כשדקדק לחלוק ארבעה לכאן וארבעה לכאן, ובין כשלא דקדק. ואדרבה בדקדק גרע טפי כשהשלושה ראשים הם מצד אחד, דוודאי הם משלושה חוטין. אלא אפילו לא דקדק, או שנפסק שנים מצד זה ואחת מצד האחר, מכל מקום חיישינן שהם משלושה חוטין, ומספיקא פסול. אבל כשנחתכו שני ראשים, אם הם משני צדדים – צריך באחת מהם כדי עניבה. וכן אם הם מצד אחד, ולא דקדק לחלקם ארבעה לכאן וארבעה לכאן. אבל מצד אחד ודקדק לחלקם – כשר אף כשלא נשתייר כדי עניבה, כמו לשיטה הקודמת. (ובארנו כל השיטות בסייעתא דשמיא. ורק בנפסק החוט מעיקרו, לדעת התוספות והרא\"ש מקרי כל שלא נשתייר כדי עניבה. ולרש\"י והרמב\"ם כשנפסק הראש המחובר לטלית. ולא אדע מנא לן דרבינו תם לא סבירא ליה כן. וצריך עיון שלא הביאו כלל דברי רש\"י והרמב\"ם. ואולי בשעת הדחק יש לסמוך עליהם, וצריך עיון לדינא. ודייק ותמצא קל.)",
+      "levels": {
+        "MINIMAL": {
+          "translation": "And according to this, for this approach, when three ends of the eight threads were cut, even though there remains in them enough for a loop – it is pasul, for we fear that perhaps they are from three threads, and if so, two whole ones do not remain. And there is no difference between when one was meticulous to divide four to here and four to here, and when one was not meticulous. And on the contrary, when one was meticulous it is worse when the three ends are from one side, for they are certainly from three threads. Rather, even if one was not meticulous, or if two were severed from this side and one from the other side, nevertheless we fear that they are from three threads, and it is pasul due to doubt. But when two ends were cut, if they are from two sides – one of them requires enough for a loop. And so too if they are from one side, and one was not meticulous to divide them four to here and four to here. But from one side and one was meticulous to divide them – it is kasher even when there does not remain enough for a loop, as according to the previous approach. (And we have explained all the approaches with the help of Heaven. And only regarding a thread severed from its source, according to the opinion of the Tosafot and the Rosh it is called such whenever there does not remain enough for a loop. And according to Rashi and the Rambam, when the end attached to the talit is severed. And I do not know from where we have it that Rabbeinu Tam does not hold so. And it requires further study that they did not bring the words of Rashi and the Rambam at all. And perhaps in a time of pressing need one may rely on them, and it requires further study for the halacha. Examine and you will find it simple.)",
+          "tokens_in": 1412,
+          "tokens_out": 390,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1802,
+          "latency_s": 2.55
+        },
+        "LOW": {
+          "translation": "And according to this, for this opinion, when three heads of the eight strings were cut, even though there remained in them enough to tie a loop – it is invalid, for we fear that perhaps they are from three strings, and if so, two complete strings do not remain. And there is no difference between when he was careful to divide four to here and four to here, and when he was not careful. And on the contrary, if he was careful, it is worse when the three heads are from one side, for they are certainly from three strings. Rather, even if he was not careful, or if two were severed from this side and one from the other side, nevertheless we fear that they are from three strings, and it is invalid due to doubt. But when two heads were cut, if they are from two sides – one of them requires enough to tie a loop. And similarly if they are from one side, and he was not careful to divide them four to here and four to here. But from one side and he was careful to divide them – it is valid even when there does not remain enough to tie a loop, as in the previous opinion. (And we have explained all the opinions with the help of Heaven. And only when the string is severed from its root, according to the opinion of Tosafot and the Rosh, it is called whenever there does not remain enough to tie a loop. And according to Rashi and the Rambam, when the head attached to the tallit is severed. And I do not know from where we have it that our teacher, Tam, does not hold this. And it requires further study that they did not bring the words of Rashi and the Rambam at all. And perhaps in a time of pressing need one may rely on them, and it requires further study for the practical law. And be precise and you will find it easy.)",
+          "tokens_in": 1412,
+          "tokens_out": 393,
+          "tokens_thinking": 2301,
+          "tokens_cached": null,
+          "tokens_total": 4106,
+          "latency_s": 12.35
+        },
+        "MEDIUM": {
+          "translation": "And according to this, for this opinion, when three heads of the eight strings were cut, even though there remains in them kedei aniva – it is pasul, for we fear that perhaps they are from three strings, and if so, two whole ones did not remain. And there is no difference between when he was careful to divide four to here and four to here, and when he was not careful. And on the contrary, if he was careful it is even worse when the three heads are from one side, for they are certainly from three strings. Rather, even if he was not careful, or if two were severed from this side and one from the other side, in any case we fear that they are from three strings, and it is pasul due to doubt. But when two heads were cut, if they are from two sides – one of them requires kedei aniva. And likewise if they are from one side, and he was not careful to divide them four to here and four to here. But from one side and he was careful to divide them – it is kosher even when there does not remain kedei aniva, like according to the previous opinion. (And we have explained all the opinions with the help of Heaven. And only regarding a string severed from its root, according to the opinion of the Tosafot and the Rosh it is called whenever there does not remain kedei aniva. And according to Rashi and the Rambam, when the head attached to the tallit is severed. And I do not know from where we have it that our teacher, the Tam, does not hold so. And it requires investigation that they did not bring the words of Rashi and the Rambam at all. And perhaps in a time of pressing need one may rely on them, and it requires investigation for the law. And examine carefully and you will find it easy.)",
+          "tokens_in": 1412,
+          "tokens_out": 395,
+          "tokens_thinking": 6128,
+          "tokens_cached": null,
+          "tokens_total": 7935,
+          "latency_s": 29.08
+        },
+        "HIGH": {
+          "translation": "And according to this, for this view, when three heads of the eight strings were cut, even though there remains in them enough to tie a loop – it is invalid, for we fear that perhaps they are from three strings, and if so, two complete ones do not remain. And there is no difference between when one was precise to divide four to here and four to here, and when one was not precise. And on the contrary, if one was precise it is worse when the three heads are from one side, for they are certainly from three strings. Rather, even if one was not precise, or if two were severed from this side and one from the other side, in any case we fear that they are from three strings, and it is invalid due to doubt. But when two heads were cut, if they are from two sides – one of them requires enough to tie a loop. And so too if they are from one side, and one was not precise to divide them four to here and four to here. But from one side and one was precise to divide them – it is valid even when there does not remain enough to tie a loop, as in the previous view. (And we have explained all the views with the help of Heaven. And only regarding a string severed at its source, according to the opinion of Tosafot and the Rosh it is called whenever there does not remain enough to tie a loop. And according to Rashi and the Rambam, when the head attached to the tallit is severed. And I do not know from where we have it that our teacher, the Tam, does not hold so. And it requires further study that they did not bring the words of Rashi and the Rambam at all. And perhaps in a time of pressing need one may rely on them, and it requires further study for the law. And be precise and you will find it easy.)",
+          "tokens_in": 1412,
+          "tokens_out": 393,
+          "tokens_thinking": 23036,
+          "tokens_cached": null,
+          "tokens_total": 24841,
+          "latency_s": 96.19
+        }
+      }
+    },
+    {
+      "siman_num": 475,
+      "seif_num": 15,
+      "hebrew": "וכתב רבינו הבית יוסף בסעיף ד: אכל מצה בלא כוונה, כגון שאנסוהו אנסים או לסטים לאכול – יצא ידי חובתו, כיון שהוא יודע שהלילה פסח, ושהוא חייב באכילת מצה. אבל אם היה סבור שהוא חול, או שאין זה מצה – לא יצא. עד כאן לשונו. סברא זו כתב כדי לתרץ דברי הרמב\"ם, שכאן פסק דיצא ובפרק שני משופר פסק דבלא מתכוין – לא יצא, לחלק בין אכילה לשאר דבר. ומיהו גם באכילה, אם לא ידע שפסח היום או שזהו מצה – וודאי לא יצא, דמצות צריכות כוונה. ובאכילה כשידע, אף שנעשה באונס – הוה ככוונה. וסברא זו הוזכרה בתוספות פסחים (קטו א). אבל מדברי הרא\"ש שם, והטור בכאן, לא משמע כן, עיין שם. (עק\"נ שם אות ק', שהאריך בזה.)",
+      "levels": {
+        "MINIMAL": {
+          "translation": "Our teacher, the Beit Yosef, wrote in section 4: If one ate matzah without intent, for example, if oppressors or bandits forced him to eat—he has fulfilled his obligation, since he knows that the night is Pesach and that he is obligated in the eating of matzah. But if he thought it was a weekday, or that this is not matzah—he has not fulfilled it. Thus far his words. He wrote this reasoning in order to reconcile the words of the Rambam, who ruled here that he has fulfilled it, yet in the second chapter of Shofar ruled that without intent—one has not fulfilled it, to distinguish between eating and other matters. However, even regarding eating, if he did not know that today is Pesach or that this is matzah—he certainly has not fulfilled it, for mitzvot require intent. And regarding eating, when he knew, even though it was done under duress—it is like intent. This reasoning was mentioned in the Tosafot in Pesachim (115a). But from the words of the Rosh there, and the Tur here, it does not appear so, see there. (See Ketzot HaChoshen there, letter 100, who elaborated on this.)",
+          "tokens_in": 1266,
+          "tokens_out": 267,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1533,
+          "latency_s": 2.2
+        },
+        "LOW": {
+          "translation": "And our teacher, the Beit Yosef, wrote in section 4: If one ate matzah without intent, such as if oppressors or bandits coerced him to eat—he has fulfilled his obligation, since he knows that tonight is Pesach, and that he is obligated in the eating of matzah. But if he thought it was a weekday, or that this is not matzah—he has not fulfilled [his obligation]. Thus far his words. He wrote this reasoning in order to reconcile the words of the Rambam, for here he ruled that he has fulfilled [his obligation], and in the second chapter of Shofar he ruled that without intent—he has not fulfilled [it], to distinguish between eating and other things. However, even regarding eating, if he did not know that today is Pesach or that this is matzah—certainly he has not fulfilled [it], for mitzvot require intent. And regarding eating, when he knew, even though it was done under duress—it is like intent. And this reasoning was mentioned in Tosafot Pesachim (115a). But from the words of the Rosh there, and the Tur here, it does not appear so; see there. (See Korban Netanel there, letter 100, who elaborated on this.)",
+          "tokens_in": 1266,
+          "tokens_out": 272,
+          "tokens_thinking": 2573,
+          "tokens_cached": null,
+          "tokens_total": 4111,
+          "latency_s": 12.9
+        },
+        "MEDIUM": {
+          "translation": "Our teacher, the Beit Yosef, wrote in section 4: If one ate matzah without kavanah, such as if coercers or bandits forced him to eat—he has fulfilled his obligation, since he knows that tonight is Pesach and that he is obligated in the eating of matzah. But if he thought it was chol, or that this was not matzah—he has not fulfilled his obligation. Thus far his words. He wrote this reasoning in order to reconcile the words of the Rambam, for here he ruled that he has fulfilled his obligation, and in the second chapter of Shofar he ruled that without kavanah—he has not fulfilled his obligation, to distinguish between eating and other things. However, even regarding eating, if he did not know that today is Pesach or that this is matzah—certainly he has not fulfilled his obligation, for mitzvot require kavanah. And regarding eating, when he knew, even though it was done under coercion—it is like kavanah. And this reasoning was mentioned in Tosafot Pesachim (115a). But from the words of the Rosh, ibid., and the Tur here, it does not appear so; see there. (See Korban Netanel, ibid., letter 100, who elaborated on this.)",
+          "tokens_in": 1266,
+          "tokens_out": 276,
+          "tokens_thinking": 11837,
+          "tokens_cached": null,
+          "tokens_total": 13379,
+          "latency_s": 53.25
+        },
+        "HIGH": {
+          "translation": "And our teacher, the Beit Yosef, wrote in seif 4: If one ate matzah without intent, for example, if oppressors or bandits forced him to eat—he has fulfilled his obligation, since he knows that tonight is Pesach and that he is obligated in the eating of matzah. But if he thought it was a weekday, or that this is not matzah—he has not fulfilled. Thus far his words. He wrote this reasoning in order to reconcile the words of the Rambam, for here he ruled that he has fulfilled, and in the second chapter of Shofar he ruled that without intent—he has not fulfilled, to distinguish between eating and other matters. However, even regarding eating, if he did not know that today is Pesach or that this is matzah—certainly he has not fulfilled, for mitzvot require intent. And regarding eating, when he knows, even though it was done under duress—it is like intent. And this reasoning was mentioned in Tosafot Pesachim (115a). But from the words of the Rosh ibid., and the Tur here, it does not appear so; see there. (See Korban Netanel ibid., letter 100, who elaborated on this.)",
+          "tokens_in": 1266,
+          "tokens_out": 263,
+          "tokens_thinking": 23039,
+          "tokens_cached": null,
+          "tokens_total": 24568,
+          "latency_s": 101.78
+        }
+      }
+    },
+    {
+      "siman_num": 202,
+      "seif_num": 27,
+      "hebrew": "ולפי זה אני אומר דגם דברי בעל תרומת הדשן הוא עניין אחר, וזה לשונו: \"שאלה: לטווירג\"א שעושין מגודגדניות שקורין וויינקסלע\"ן, שמבשלין אותן עד שהם נימוחים לגמרי ומערבין בהן תבלין ודבש, יש לברך עליהם 'שהכל' או 'העץ'. תשובה:… אמנם כי דייקינן בפירוש רש\"י בההיא דטרימא… משמע דאי הוה מרוסקין הרבה מברכינן עלייהו 'שהכל'… שהם נמוקים לגמרי וכו'\" עכ\"ל. ורבינו הבית יוסף בספרו הגדול סימן ר\"ד תמה עליו, איך לא הביא כלל דברי הרמב\"ם, ע\"ש שדחה דבריו. אבל באמת אין זה עניין כלל לדברי הרמב\"ם, דמיירי שנימוחים לגמרי עד שנעשה כמשקה כמבואר מלשונו, וזה יש אצלינו גם כן, שממחין הפירות וסוחטין אותם ומטגנין בדבש או בנופת צוקע\"ר, וזהו וודאי ברכתו 'שהכל' וקורין לזה סירו\"פ.",
+      "levels": {
+        "MINIMAL": {
+          "translation": "And according to this, I say that even the words of the author of the Terumat HaDeshen are a different matter, and this is his wording: \"Question: Regarding the latwerge made from cherries called weichseln, which are cooked until they are completely dissolved and mixed with spices and honey, should one recite the berakhah of 'shehakol' or 'ha'etz' over them? Answer: ... However, when we are precise in the commentary of Rashi regarding that matter of trima... it implies that if they were crushed a great deal, we recite 'shehakol' over them... for they are completely dissolved, etc.\" Thus far his words. Our teacher, the Beit Yosef, in his great book, siman 204, wondered about him, how he did not bring the words of the Rambam at all; see there that he rejected his words. But in truth, this is not the same matter at all as the words of the Rambam, for he is dealing with a case where they are completely dissolved until they become like a liquid, as is clear from his wording, and we also have this, where they dissolve the fruits and squeeze them and fry them in honey or in sugar nectar, and the berakhah for this is certainly 'shehakol' and this is called syrup.",
+          "tokens_in": 1315,
+          "tokens_out": 283,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1598,
+          "latency_s": 2.25
+        },
+        "LOW": {
+          "translation": "And according to this, I say that even the words of the author of the Terumat HaDeshen are a different matter. This is his wording: \"Question: Regarding *latwerge* that they make from cherries called *weichseln*, which they cook until they are completely dissolved and mix spices and honey into them, should one recite the blessing 'shehakol' or 'ha'etz' over them? Answer: ... However, when we are precise in Rashi's commentary on that matter of *trima*... it implies that if they were mashed a great deal, we recite 'shehakol' over them... as they are completely dissolved, etc.\" Thus far his words. And our teacher, the Beit Yosef, in his great book, siman 204, wondered about him, how he did not bring the words of the Rambam at all; see there that he rejected his words. But in truth, this is not at all related to the words of the Rambam, for he is dealing with a case where they are completely dissolved until they become like a liquid, as is explained from his wording. And we also have this, where they dissolve the fruits and squeeze them and fry them in honey or in sugar syrup, and the blessing for this is certainly 'shehakol', and they call this *syrup*.",
+          "tokens_in": 1315,
+          "tokens_out": 286,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1601,
+          "latency_s": 2.15
+        },
+        "MEDIUM": {
+          "translation": "And according to this, I say that the words of the author of Terumat HaDeshen are also a different matter, and this is his wording: \"Question: For *latwerge* made from cherries called *weichseln*, which are cooked until they are completely dissolved and mixed with spices and honey, should one recite over them 'shehakol' or 'ha'etz'? Answer: ... However, when we examine Rashi's commentary on that [matter] of *trima* ... it implies that if they were mashed significantly, we recite over them 'shehakol' ... as they are completely dissolved, etc.\" Thus far his words. Our teacher, the Beit Yosef, in his great work, siman 204, wondered about him, how he did not cite the words of the Rambam at all; see there that he rejected his words. But in truth, this is not the [same] matter at all as the words of the Rambam, for he is dealing with [cases] where they are completely dissolved until they become like a liquid, as is clear from his wording, and we have this as well, where they dissolve the fruits and squeeze them and fry them in honey or in sugar nectar, and the blessing for this is certainly 'shehakol', and we call this *syrup*.",
+          "tokens_in": 1315,
+          "tokens_out": 283,
+          "tokens_thinking": 6636,
+          "tokens_cached": null,
+          "tokens_total": 8234,
+          "latency_s": 31.64
+        },
+        "HIGH": {
+          "translation": "And according to this I say that also the words of the author of the Terumat HaDeshen are a different matter, and this is his wording: \"Question: For latwerge that is made from cherries that are called weichseln, which are cooked until they are completely dissolved and spices and honey are mixed into them, should one recite the blessing of 'shehakol' or 'ha'etz' over them? Answer: … However, when we are precise in Rashi's commentary regarding that of trima… it implies that if they were mashed a great deal we recite 'shehakol' over them… that they are completely dissolved, etc.\" Thus far his words. And our teacher, the Beit Yosef, in his great book, siman 204, wondered about him, how he did not bring the words of the Rambam at all; see there that he rejected his words. But in truth, this is not at all related to the words of the Rambam, for he is dealing with where they are completely dissolved until it becomes like a liquid, as is explained from his wording, and this exists among us as well, that they dissolve the fruits and squeeze them and fry them in honey or in sugar, and its blessing is certainly 'shehakol' and they call this syrup.",
+          "tokens_in": 1315,
+          "tokens_out": 277,
+          "tokens_thinking": 23036,
+          "tokens_cached": null,
+          "tokens_total": 24628,
+          "latency_s": 94.41
+        }
+      }
+    }
+  ],
+  "yd": [
+    {
+      "siman_num": 70,
+      "seif_num": 35,
+      "hebrew": "ובזה נבא לביאור דברי הש\"ע שכתב יש אוסרים ליתן בשר שלא נמלח כלל וכו' וזהו השיטה הרביעית המחמרת שבכולם ויש מתירין ע\"י מליחה שימלחנו אח\"כ וכו' וזהו שיטת רבותיו של הרשב\"א דגם בנמלח מתירים ע\"י מליחה ויש מתירים בכל זה כלומר דא\"צ מליחה כלל וזהו שיטת ר\"ת המיקל שבכולן וזהו שכתב ולכתחלה יש לחוש לדברי האוסרים כלומר לכתחלה יש לחוש לכל החומרות ובדיעבד פסק כר\"ת וכ\"כ להדיא בספרו הגדול בשם האגור וז\"ל והאגור כתב סברת ר\"ת דשרי וסברת האוסר וכתב אח\"כ דהעולם נזהרים לכתחלה ומתירים בדיעבד עכ\"ל ולזה בא רבינו הרמ\"א לחלוק עליו שאפילו בדיעבד נוהגין לאסור אם כבר פלט דמו וצירו וזהו כהרשב\"א וסה\"ת והרא\"ש והטור:",
+      "levels": {
+        "MINIMAL": {
+          "translation": "And with this we come to the explanation of the words of the Shulchan Aruch, who wrote: There are those who forbid placing meat that has not been salted at all, etc. And this is the fourth approach, the most stringent of them all. And there are those who permit it by means of salting, that he should salt it afterwards, etc. And this is the approach of the teachers of the Rashba, that even regarding that which was salted, they permit it by means of salting. And there are those who permit in all of this, meaning that it does not require salting at all. And this is the approach of Rabbeinu Tam, the most lenient of them all. And this is what he wrote: And ab initio one should be concerned for the words of those who forbid; meaning, ab initio one should be concerned for all the stringencies, but post facto he ruled like Rabbeinu Tam. And he wrote so explicitly in his great work in the name of the Agur, and this is his wording: And the Agur wrote the opinion of Rabbeinu Tam that it is permitted, and the opinion of the one who forbids, and wrote afterwards that the world is careful ab initio and permits post facto. Thus far his words. And for this our teacher, the Rema, came to disagree with him, that even post facto we are accustomed to forbid if it already discharged its blood and its brine, and this is according to the Rashba, and Sefer HaTerumah, and the Rosh, and the Tur.",
+          "tokens_in": 1287,
+          "tokens_out": 326,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1613,
+          "latency_s": 2.13
+        },
+        "LOW": {
+          "translation": "And with this we come to the explanation of the words of the Shulchan Aruch who wrote: Some forbid placing meat that has not been salted at all etc., and this is the fourth opinion, the most stringent of them all. And some permit by means of salting, that he should salt it afterward etc., and this is the opinion of the teachers of the Rashba, that even in the case of salted meat, they permit by means of salting. And some permit in all this, meaning that it does not require salting at all, and this is the opinion of Rabbeinu Tam, the most lenient of them all. And this is what he wrote: \"And lekhatchilah one should be concerned for the words of those who forbid,\" meaning lekhatchilah one should be concerned for all the stringencies, and bediavad he ruled like Rabbeinu Tam. And he wrote so explicitly in his great book in the name of the Agur. This is his wording: And the Agur wrote the reasoning of Rabbeinu Tam that it is permitted and the reasoning of the one who forbids, and he wrote afterward that the world is careful lekhatchilah and permits bediavad. Thus far his words. And regarding this, our teacher, the Rema, came to disagree with him, that even bediavad it is the custom to forbid if it has already discharged its blood and its tzir; and this is like the Rashba and the Sefer HaTerumah and the Rosh and the Tur.",
+          "tokens_in": 1287,
+          "tokens_out": 321,
+          "tokens_thinking": 2038,
+          "tokens_cached": null,
+          "tokens_total": 3646,
+          "latency_s": 11.74
+        },
+        "MEDIUM": {
+          "translation": "And with this we come to the explanation of the words of the Shulchan Aruch, who wrote: There are those who forbid placing meat that has not been salted at all, etc. And this is the fourth opinion, the most stringent of them all. And there are those who permit by means of salting, that he should salt it afterwards, etc. And this is the opinion of the teachers of the Rashba, that even regarding meat that was salted, they permit by means of salting. And there are those who permit in all this, meaning that it does not require salting at all. And this is the opinion of Rabbenu Tam, the most lenient of them all. And this is what he wrote: \"And lekhatchilah one should be concerned for the words of those who forbid,\" meaning lekhatchilah one should be concerned for all the stringencies, and bediavad he ruled like Rabbenu Tam. And he wrote so explicitly in his great book in the name of the Agur. This is his wording: And the Agur wrote the logic of Rabbenu Tam that it is permitted, and the logic of the one who forbids, and he wrote afterwards that the world is careful lekhatchilah and permits bediavad. Thus far his words. And on this our teacher, the Rema, comes to disagree with him, that even bediavad we are accustomed to forbid if it has already emitted its blood and its tzir. And this is like the Rashba, the Sefer HaTerumah, the Rosh, and the Tur.",
+          "tokens_in": 1287,
+          "tokens_out": 329,
+          "tokens_thinking": 5917,
+          "tokens_cached": null,
+          "tokens_total": 7533,
+          "latency_s": 27.75
+        },
+        "HIGH": {
+          "translation": "And with this we come to the explanation of the words of the Shulchan Aruch, who wrote: some forbid placing meat that was not salted at all, etc. And this is the fourth opinion, the most stringent of them all. And some permit by means of salting, that he should salt it afterwards, etc. And this is the opinion of the teachers of the Rashba, that even regarding [meat] that was salted, they permit [it] by means of salting. And some permit in all this, meaning that it does not require salting at all, and this is the opinion of Rabbeinu Tam, the most lenient of them all. And this is what he wrote: and l'chatchila one should be concerned for the words of those who forbid, meaning l'chatchila one should be concerned for all the stringencies, and bedi'avad he ruled like Rabbeinu Tam. And he wrote so explicitly in his great work in the name of the Agur, and this is his wording: And the Agur wrote the reasoning of Rabbeinu Tam that it is permitted and the reasoning of the one who forbids, and he wrote afterwards that the world is careful l'chatchila and permits bedi'avad. Thus far his words. And for this our teacher, the Rema, came to disagree with him, that even bedi'avad it is the custom to forbid if it has already discharged its blood and its juice, and this is like the Rashba and the Sefer HaTerumah and the Rosh and the Tur.",
+          "tokens_in": 1287,
+          "tokens_out": 331,
+          "tokens_thinking": 23039,
+          "tokens_cached": null,
+          "tokens_total": 24657,
+          "latency_s": 98.72
+        }
+      }
+    },
+    {
+      "siman_num": 47,
+      "seif_num": 9,
+      "hebrew": "ולענין דינא כתבו גדולי האחרונים שיש להחמיר ככל הפירושים והיינו שאין להכשיר רק אם בתחלתן אחד הם ברוחב אצבע והפירוד הוא פחות מאצבע ואח\"כ נתחברו יחד וזהו כמו שתפסו לדעת רש\"י ולענ\"ד נראה דבזה אין להחמיר כלל דאפילו לפי דבריהם כל רבותינו חולקים עליו ובש\"ע לא הובא דעת רש\"י כלל וכ\"ש לפמ\"ש בסעי' ג' גם רש\"י לא ס\"ל כן וכל שמחוברין יחד בראשן ובסופן באורך כרוחב אצבע אגודל באמצעיתו יש להכשיר ולענין דק היוצא מן הדקין אם היא סתומה בראשה ודאי הוא דלדול בעלמא ואפילו אם היא פתוחה בראשה אם היא סתומה בסופה ואינה אלא כרוחב אצבע אגודל יש להקל בהפ\"מ וביותר מאגודל יש להתיישב:",
+      "levels": {
+        "MINIMAL": {
+          "translation": "And regarding the law, the great later authorities wrote that one should be stringent according to all interpretations, meaning that one should only declare it kosher if at their beginning they are one for the width of a finger, and the separation is less than a finger, and afterwards they joined together; and this is as they understood the opinion of Rashi. And in my humble opinion, it seems that in this one should not be stringent at all, for even according to their words, all of our teachers disagree with him, and in the Shulchan Aruch the opinion of Rashi was not cited at all. And all the more so according to what I wrote in seif 3, even Rashi does not hold this way. And as long as they are joined together at their beginning and at their end for a length of the width of a thumb in its middle, one should declare it kosher. And regarding a thin piece that emerges from the thin pieces, if it is closed at its head, it is certainly a mere protrusion. And even if it is open at its head, if it is closed at its end and is only the width of a thumb, one may be lenient in a case of great loss, and regarding more than a thumb, one must deliberate.",
+          "tokens_in": 1268,
+          "tokens_out": 261,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1529,
+          "latency_s": 1.73
+        },
+        "LOW": {
+          "translation": "And regarding the law, the great later authorities wrote that one should be stringent like all the interpretations, and that is, that one should only declare it kosher if at their beginning they are one for the width of a finger, and the separation is less than a finger, and afterwards they joined together, and this is as they understood the opinion of Rashi. And in my humble opinion it appears that in this one should not be stringent at all, for even according to their words, all our teachers disagree with him, and in the Shulchan Aruch the opinion of Rashi was not brought at all, and all the more so according to what I wrote in seif 3, even Rashi does not hold so; and whenever they are joined together at their beginning and at their end for a length of the width of a thumb, one should declare it kosher. And regarding a small intestine that emerges from the intestines, if it is closed at its head, it is certainly a mere dildul; and even if it is open at its head, if it is closed at its end and it is only like the width of a thumb, one may be lenient in a case of great loss, and in more than a thumb, one must deliberate.",
+          "tokens_in": 1268,
+          "tokens_out": 259,
+          "tokens_thinking": 2204,
+          "tokens_cached": null,
+          "tokens_total": 3731,
+          "latency_s": 11.6
+        },
+        "MEDIUM": {
+          "translation": "And regarding the law, the great Acharonim wrote that one should be stringent according to all the interpretations, and that is, that one should not declare it kosher unless at their beginning they are one for the width of a finger, and the separation is less than a finger, and afterwards they joined together, and this is as they understood for the opinion of Rashi. And in my humble opinion, it seems that in this one should not be stringent at all, for even according to their words, all our teachers disagree with him, and in the Shulchan Aruch the opinion of Rashi was not brought at all, and all the more so according to what I wrote in seif 3, even Rashi does not hold so. And as long as they are joined together at their head and at their end for a length like the width of a thumb at its middle, one should declare it kosher. And regarding a thin [piece] that comes out from the thin [pieces], if it is closed at its head, it is certainly a mere dildul, and even if it is open at its head, if it is closed at its end and is no more than the width of a thumb, one may be lenient in a case of hefsed merubeh, and in more than a thumb, one must deliberate.",
+          "tokens_in": 1268,
+          "tokens_out": 278,
+          "tokens_thinking": 23037,
+          "tokens_cached": null,
+          "tokens_total": 24583,
+          "latency_s": 96.34
+        },
+        "HIGH": {
+          "translation": "And regarding the law, the great Acharonim wrote that one should be stringent like all the interpretations, and that is, that one should not declare it kosher unless at their beginning they are one for the width of an etzba and the separation is less than an etzba and afterwards they joined together, and this is as they understood the opinion of Rashi. And in my humble opinion, it seems that in this one should not be stringent at all, for even according to their words, all our teachers disagree with him, and in the Shulchan Aruch the opinion of Rashi was not brought at all. And all the more so according to what I wrote in seif 3, even Rashi does not hold this; and anything that is joined together at its beginning and its end for a length of the width of a thumb-etzba in its middle, one should declare it kosher. And regarding a thin [membrane] that comes out from the thin [membranes], if it is closed at its head, it is certainly a mere dildul; and even if it is open at its head, if it is closed at its end and is no more than the width of a thumb-etzba, one may be lenient in a case of great loss; and in more than a thumb-etzba, one must deliberate.",
+          "tokens_in": 1268,
+          "tokens_out": 281,
+          "tokens_thinking": 7792,
+          "tokens_cached": null,
+          "tokens_total": 9341,
+          "latency_s": 35.01
+        }
+      }
+    },
+    {
+      "siman_num": 99,
+      "seif_num": 15,
+      "hebrew": "כשמשערים ששים נגד האיסור משערים גם ברוטב וקיפה והוא הדק דק של בשר ותבלין המתאסף בשולי הקדרה וכן כל מיני מאכל שיש בהקדרה את הכל מצטרפים לשישים אך משערים את הכל כמו שהוא עתה לפנינו אע\"פ שידענו שמקודם הבישול היה הרבה יותר ונתכויץ ונצטמק ע\"י הבישול מ\"מ אין לשער כמו שהיה מקודם דאולי גם בהאיסור היה מקודם יותר ונצטמק ואף גם במה שבלעה הקדרה אין משערים ולפ\"ז אם האיסור ראינו שלא נשתנה מכמות שהיה משערין מההיתר מה שנבלע בקדרה [ט\"ז סק\"ד] ויש מי שחוכך גם בזה להחמיר כי קשה לעמוד על שורש הדבר ולכן בכל אופן משערים כמו שהוא בא עתה לפנינו [שם בשם רש\"ל וכ\"כ הש\"ך סק\"י] אמנם להיפך ודאי דאין להקל כגון שראינו האיסור שנתמעט וההיתר לא נתמעט ודאי דיש לחשוב האיסור כמו שהיה מקודם [עפמ\"ג שם] ואפילו באיסור דרבנן כיון שראינו שהיה האיסור יותר:",
+      "levels": {
+        "MINIMAL": {
+          "translation": "When estimating sixty against the forbidden substance, one also estimates with the broth and the sediment—which is the finely crushed meat and spices that collect at the bottom of the pot—and so too all types of food that are in the pot; they all join together for the sixty. However, one estimates everything as it is now before us, even though we knew that before the cooking there was much more and it shrunk and shriveled through the cooking; nevertheless, one should not estimate as it was previously, for perhaps the forbidden substance was also previously more and it shriveled. And even regarding what the pot absorbed, one does not estimate. According to this, if we saw that the forbidden substance did not change from the quantity it was, we would estimate from the permitted substance what was absorbed in the pot [Taz, subsection 4]. And there is one who hesitates even in this to be stringent, for it is difficult to ascertain the root of the matter, and therefore in every case we estimate as it comes now before us [ibid. in the name of the Rashal, and so wrote the Shach, subsection 10]. However, conversely, certainly one should not be lenient; for example, if we saw the forbidden substance decreased and the permitted substance did not decrease, certainly one must consider the forbidden substance as it was previously [according to the Pri Megadim there], and even regarding a rabbinic prohibition, since we saw that the forbidden substance was more.",
+          "tokens_in": 1328,
+          "tokens_out": 306,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1634,
+          "latency_s": 2.46
+        },
+        "LOW": {
+          "translation": "When measuring sixty against the forbidden substance, one also measures the broth and the sediment—which is the finely crushed meat and spices that collect at the bottom of the pot—and similarly all types of food that are in the pot; all of them join together for the sixty. However, one measures everything as it is now before us, even though we knew that before the cooking there was much more and it shrank and contracted through the cooking; nevertheless, one should not measure as it was beforehand, for perhaps the forbidden substance was also more beforehand and contracted. And even regarding what the pot absorbed, one does not measure. According to this, if we saw that the forbidden substance did not change from the quantity it was, one measures from the permitted substance what was absorbed in the pot [Taz, subparagraph 4]. And there is one who hesitates even in this to be stringent, because it is difficult to determine the root of the matter, and therefore in any case one measures as it comes now before us [ibid. in the name of the Rashal, and so wrote the Shach, subparagraph 10]. However, regarding the opposite, certainly one should not be lenient; for example, if we saw the forbidden substance decreased and the permitted substance did not decrease, certainly one must consider the forbidden substance as it was beforehand [according to the Pri Megadim there], and even regarding a rabbinic prohibition, since we saw that the forbidden substance was more.",
+          "tokens_in": 1328,
+          "tokens_out": 301,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1629,
+          "latency_s": 2.14
+        },
+        "MEDIUM": {
+          "translation": "When estimating sixty against the *issur*, we also estimate with the *rotev* and *kipah*, and that is the very fine [bits] of meat and spices that gather at the bottom of the pot, and so too all types of food that are in the pot; all of them join together for the sixty. However, we estimate everything as it is now before us, even though we knew that before the cooking it was much more and it contracted and shrunk through the cooking; nevertheless, one should not estimate as it was before, for perhaps the *issur* was also more before and it shrunk. And even regarding what the pot absorbed, we do not estimate. And according to this, if we saw that the *issur* did not change from how it was, we estimate from the *heter* what was absorbed in the pot [the Taz, subparagraph 4]. And there is one who hesitates even in this to be stringent, because it is difficult to determine the root of the matter, and therefore in every case we estimate as it comes now before us [ibid. in the name of the Maharshal, and so wrote the Shach, subparagraph 10]. However, regarding the opposite, certainly one should not be lenient, such as if we saw the *issur* decreased and the *heter* did not decrease, certainly one must consider the *issur* as it was before [see the Pri Megadim ibid.], and even regarding a rabbinic *issur*, since we saw that the *issur* was more.",
+          "tokens_in": 1328,
+          "tokens_out": 326,
+          "tokens_thinking": 23036,
+          "tokens_cached": null,
+          "tokens_total": 24690,
+          "latency_s": 101.31
+        },
+        "HIGH": {
+          "translation": "When estimating sixty against the issur, we estimate also with the broth and kifah, which is the fine particles of meat and spices that gather at the bottom of the pot; and similarly all types of food that are in the pot, all of them combine for the sixty. However, we estimate everything as it is now before us, even though we knew that before the cooking there was much more and it contracted and shriveled through the cooking; nevertheless, one does not estimate as it was before, for perhaps the issur also was more before and shriveled. And even regarding what the pot absorbed, we do not estimate. And according to this, if we saw that the issur did not change from the quantity it was, we estimate from the heter what was absorbed in the pot [the Taz, subsection 4]. And there is one who hesitates also in this to be stringent, because it is difficult to determine the root of the matter; and therefore in any case we estimate as it comes now before us [ibid. in the name of the Rashal, and so wrote the Shach, subsection 10]. However, to the contrary, certainly one should not be lenient, such as if we saw the issur decreased and the heter did not decrease, certainly one must consider the issur as it was before [see the Pri Megadim ibid.], and even in an issur d'rabbanan, since we saw that the issur was more.",
+          "tokens_in": 1328,
+          "tokens_out": 306,
+          "tokens_thinking": 23038,
+          "tokens_cached": null,
+          "tokens_total": 24672,
+          "latency_s": 101.66
+        }
+      }
+    },
+    {
+      "siman_num": 24,
+      "seif_num": 45,
+      "hebrew": "כתב רבינו הב\"י בסעי' י\"ט שחט העוף כדרכו בהכשר ואחר גמר שחיטה מצא טבעת מהגרגרת שלם על הסכין כשר עכ\"ל דתלינן שאין זה עיקור אלא ע\"י גלגול הגרגרת הוא כלומר ששחט בב' מקומות ע\"י גלגול ולכך נפרד הטבעת ואע\"ג דזהו ספק בשחיטה דשמא נעקר הטבעת בשעת שחיטה מ\"מ כיון דלא שכיח שיהא הטבעת מהגרגרת נשמט מחיים ולא תהיה המכה ניכרת תלינן בדבר המצוי שנפרד ע\"י גלגול לאחר שחיטה [כו\"פ]:",
+      "levels": {
+        "MINIMAL": {
+          "translation": "Our teacher, the Beit Yosef, wrote in section 19: If one slaughtered a bird in its usual manner properly, and after the completion of the slaughter he found a complete ring of the trachea on the knife, it is kosher. Thus far his words. For we hang the matter on the assumption that this is not an uprooting, but rather it is through the rolling of the trachea; that is to say, that he slaughtered in two places through rolling, and therefore the ring was separated. And even though this is a doubt regarding the slaughter, for perhaps the ring was uprooted at the time of slaughter, nevertheless, since it is not common for a ring of the trachea to be displaced during life without the wound being recognizable, we hang the matter on the common occurrence that it was separated through rolling after the slaughter [Kereiti U’Peleiti].",
+          "tokens_in": 1182,
+          "tokens_out": 184,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1366,
+          "latency_s": 1.82
+        },
+        "LOW": {
+          "translation": "Our teacher, the Beit Yosef, wrote in section 19 that [if] one slaughtered a bird in the proper manner, validly, and after the completion of the shchitah he found a whole ring of the gargeret on the knife, it is kosher. Thus far his words. For we attribute [this] to not being an uprooting, but rather it is through the rolling of the gargeret; that is to say, that he slaughtered in two places through rolling, and therefore the ring separated. And even though this is a doubt regarding the shchitah, for perhaps the ring was uprooted during the time of shchitah, nevertheless, since it is not common for a ring of the gargeret to be displaced while alive and the wound would not be noticeable, we attribute it to the common occurrence, that it separated through rolling after the shchitah [Kereiti U-Peleiti].",
+          "tokens_in": 1182,
+          "tokens_out": 196,
+          "tokens_thinking": 1878,
+          "tokens_cached": null,
+          "tokens_total": 3256,
+          "latency_s": 10.85
+        },
+        "MEDIUM": {
+          "translation": "Our teacher, the Beit Yosef, wrote in seif 19 that if one slaughtered a bird in its proper manner validly and after the completion of the shechitah he found a whole ring of the gareret on the knife, it is kosher. Thus far his words. For we attribute that this is not an ikur, but rather it is by means of the rolling of the gareret; meaning, that he slaughtered in two places by means of rolling, and therefore the ring became separated. And even though this is a doubt regarding the shechitah, that perhaps the ring was uprooted at the time of shechitah, nevertheless, since it is not common for a ring of the gareret to be detached while alive without the wound being noticeable, we attribute it to the common occurrence, that it became separated by means of rolling after the shechitah [Kereiti U-Peleiti].",
+          "tokens_in": 1182,
+          "tokens_out": 193,
+          "tokens_thinking": 8190,
+          "tokens_cached": null,
+          "tokens_total": 9565,
+          "latency_s": 40.76
+        },
+        "HIGH": {
+          "translation": "Our teacher, the Beit Yosef, wrote in seif 19: One who slaughtered a bird in its usual way validly, and after the completion of the shechitah he found a complete ring of the gargeret on the knife, it is kosher. Thus far his words. For we attribute that this is not an ikur, but rather it is by means of the gilgul of the gargeret; that is to say, that he slaughtered in two places by means of gilgul, and therefore the ring was separated. And even though this is a safek regarding the shechitah, for perhaps the ring was uprooted at the time of shechitah, nevertheless, since it is not common for a ring of the gargeret to be displaced while alive and the wound would not be evident, we attribute to the common occurrence, that it was separated by means of gilgul after the shechitah [Kereiti U-Peleiti].",
+          "tokens_in": 1182,
+          "tokens_out": 202,
+          "tokens_thinking": 23039,
+          "tokens_cached": null,
+          "tokens_total": 24423,
+          "latency_s": 95.6
+        }
+      }
+    },
+    {
+      "siman_num": 93,
+      "seif_num": 12,
+      "hebrew": "אך בזה שהצריך לכלי חרס שבירה הדבר תמוה, דלמה יהיה אסור להשתמש בה שארי דברים שאינן לא בשר ולא חלב, ובאמת בשו\"ע פסקו כן דשארי דברים מותר, ע\"ש, אך גם בשו\"ע בסימן צ\"ד (שולחן ערוך יורה דעה צד) מבואר דכלי שאינה בת יומא אסור בכל תשמיש. וצ\"ל דחומרא בעלמא היא, וכאן דינא קמ\"ל [ש\"ך סק\"ג], וגם הטור החמיר חומרא בעלמא ולא מדינא. ויש מי שסובר דכלי חרס מדינא אסור בכל תשמיש רותח אפילו שאינו של בשר או של חלב, מפני שהיא לעולם פולטת, ותפלוט בשר בחלב, ואף בצונן פולטת כלי חרס, ולכן מדינא אסורה בכל תשמיש צלול [פרי חדש סימן צ\"א סק\"ג], וכנראה שזהו דעת הטור, וכן אנו מורין למעשה שאסור להשתמש בה שום תשמיש, וטוב לשוברו, וכן משמע בגמרא [חולין קיא:, בפינכא דר' אמי דתבריה]:",
+      "levels": {
+        "MINIMAL": {
+          "translation": "But regarding that which he required breaking for an earthenware vessel, the matter is puzzling; for why should it be forbidden to use it for other things that are neither meat nor milk? And indeed, in the Shulchan Aruch they ruled accordingly, that other things are permitted, see there. However, also in the Shulchan Aruch in siman 94, it is explained that a vessel that is not ben yomo is forbidden for any use. And it must be said that this is a mere stringency, and here he is teaching us the law [Shach, seif katan 3], and also the Tur was stringent as a mere stringency and not by the law. And there is one who holds that an earthenware vessel by the law is forbidden for any hot use even if it is not of meat or of milk, because it is always emitting, and it will emit meat with milk; and even with cold an earthenware vessel emits, and therefore by the law it is forbidden for any liquid use [Pri Chadash, siman 91, seif katan 3], and it appears that this is the opinion of the Tur. And so we instruct in practice, that it is forbidden to use it for any use, and it is good to break it, and so it is implied in the Gemara [Chullin 111b, regarding the bowl of Rabbi Ami that he broke it]:",
+          "tokens_in": 1322,
+          "tokens_out": 299,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1621,
+          "latency_s": 2.28
+        },
+        "LOW": {
+          "translation": "However, regarding that which he required breaking for an earthenware vessel, the matter is puzzling, for why should it be forbidden to use it for other things that are neither meat nor milk? And in truth, in the Shulchan Aruch they ruled so, that other things are permitted; see there. However, also in the Shulchan Aruch in siman 94 (Shulchan Aruch Yoreh Deah 94) it is explained that a vessel that is not ben yomo is forbidden for any use. And it must be said that it is merely a stringency, and here it teaches us the law [Shach, subparagraph 3], and also the Tur was stringent merely as a stringency and not by law. And there is one who holds that an earthenware vessel is forbidden by law for any boiling use even if it is not of meat or of milk, because it always emits, and it will emit meat in milk, and even with cold items an earthenware vessel emits, and therefore by law it is forbidden for any liquid use [Pri Chadash siman 91 subparagraph 3], and it appears that this is the opinion of the Tur, and so we instruct in practice that it is forbidden to use it for any use, and it is good to break it, and so it is implied in the Gemara [Chullin 111b, regarding the bowl of Rabbi Ami that he broke it]:",
+          "tokens_in": 1322,
+          "tokens_out": 302,
+          "tokens_thinking": 2462,
+          "tokens_cached": null,
+          "tokens_total": 4086,
+          "latency_s": 13.0
+        },
+        "MEDIUM": {
+          "translation": "However, regarding this, that he required breaking for a keli cheres, the matter is puzzling, for why should it be forbidden to use it for other things that are neither meat nor milk? And in truth, in the Shulchan Aruch they ruled so, that other things are permitted; see there. However, also in the Shulchan Aruch in siman 94 (Shulchan Aruch Yoreh Deah 94), it is explained that a vessel that is not ben yomo is forbidden for any use. And it must be said that it is merely a stringency, and here he informs us of the law [Shach, seif katan 3], and also the Tur was stringent merely as a stringency and not by the law. And there is one who holds that a keli cheres is forbidden by the law for any hot use, even if it is not of meat or of milk, because it always exudes, and it will exude basar be-chalav. And even with cold, a keli cheres exudes; therefore, by the law it is forbidden for any liquid use [Pri Chadash siman 91, seif katan 3]. And it appears that this is the opinion of the Tur, and so we instruct in practice, that it is forbidden to use it for any use, and it is good to break it, and so it is implied in the Gemara [Chullin 111b, regarding the bowl of Rabbi Ami that he broke]:",
+          "tokens_in": 1322,
+          "tokens_out": 322,
+          "tokens_thinking": 10118,
+          "tokens_cached": null,
+          "tokens_total": 11762,
+          "latency_s": 47.51
+        },
+        "HIGH": {
+          "translation": "However, regarding this, that he required breaking for an earthenware vessel, the matter is puzzling, for why should it be forbidden to use it for other things that are neither meat nor milk? And in truth, in the Shulchan Aruch they ruled so, that other things are permitted; see there. However, also in the Shulchan Aruch in siman 94 (Shulchan Aruch Yoreh Deah 94) it is explained that a vessel that is not ben yomo is forbidden for any use. And it must be said that it is merely a stringency, and here it teaches us the law [Shach, sub-section 3], and also the Tur was stringent merely as a stringency and not by the letter of the law. And there is one who holds that an earthenware vessel is forbidden by the letter of the law for any hot use, even if it is not of meat or of milk, because it always expels, and it will expel meat with milk; and even with cold items an earthenware vessel expels, and therefore by the letter of the law it is forbidden for any liquid use [Pri Chadash, siman 91, sub-section 3]. And apparently this is the opinion of the Tur, and so we instruct in practice, that it is forbidden to use it for any use, and it is good to break it, and so it is implied in the Gemara [Chullin 111b, regarding the bowl of Rabbi Ami that he broke]:",
+          "tokens_in": 1322,
+          "tokens_out": 322,
+          "tokens_thinking": 23038,
+          "tokens_cached": null,
+          "tokens_total": 24682,
+          "latency_s": 99.25
+        }
+      }
+    }
+  ],
+  "eh": [
+    {
+      "siman_num": 154,
+      "seif_num": 55,
+      "hebrew": "וזה שכתב או ישא שלישית אם אפשר לו לזונן הדבר פשוט דגם בשנייה צריך שיהא באפשרי לזונן כדמוכח בגמ' אלא דקמ\"ל שהיכולת בידו לעכב הכתובה משתיהן ולבחון עצמו בשלישית והטעם שכבר בארנו דלעניין ממון לא הוה חזקה בפחות מג' פעמים ובזה חולק היש מי שאומר וס\"ל דכשגם השנייה אומרת שאינו יורה כחץ אין ביכולתו לעכבן עד השלישית כיון דלעניין איסור הוה חזקה בשתי פעמים ומחוייב לגרשן וממילא שחייב בכתובתן ואם השנייה צריכה ג\"כ להמתין עשר שנים יש שני דעות בטור ע\"ש (ועב\"ש סקט\"ו ובהגר\"א סקל\"ב והנלע\"ד כתבתי בביאור דברי הש\"ע ודו\"ק):",
+      "levels": {
+        "MINIMAL": {
+          "translation": "And that which he wrote, \"or he shall marry a third if it is possible for him to sustain them,\" the matter is simple, for also regarding the second he must be able to sustain her as is proven in the Gemara; rather, it comes to teach us that the power is in his hand to withhold the ketubah from both of them and to test himself with a third. The reason is as we have already explained, that regarding monetary matters it is not a chazakah in fewer than three times. And in this, the \"there is one who says\" disagrees and holds that when the second also says that he does not \"shoot like an arrow,\" it is not in his power to withhold them until the third, since regarding a prohibition it is a chazakah in two times and he is obligated to divorce them, and it follows that he is liable for their ketubah. And if the second must also wait ten years, there are two opinions in the Tur, see there (and see Beit Shmuel subparagraph 15 and the Gra subparagraph 32, and that which appears correct to me I have written in the explanation of the words of the Shulchan Aruch, and delve into this):",
+          "tokens_in": 1237,
+          "tokens_out": 256,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1493,
+          "latency_s": 2.15
+        },
+        "LOW": {
+          "translation": "And that which he wrote, \"or he shall marry a third if it is possible for him to sustain them,\" the matter is simple, that also with the second it must be possible for him to sustain them, as is proven in the Gemara; rather, it comes to teach us that the power is in his hand to withhold the ketubah from both of them and to test himself with a third. And the reason is as we have already explained, that regarding monetary matters it is not a chazakah in fewer than three times. And in this, the \"there is one who says\" disagrees and holds that when the second also says that he does not \"shoot like an arrow,\" it is not in his power to withhold them until the third, since regarding a prohibition it is a chazakah in two times and he is obligated to divorce them, and automatically he is liable for their ketubah. And if the second must also wait ten years, there are two opinions in the Tur, see there (and see Beit Shmuel subparagraph 15 and the Gra subparagraph 32; and that which appears correct in my humble opinion I have written in the explanation of the words of the Shulchan Aruch, and reflect on this).",
+          "tokens_in": 1237,
+          "tokens_out": 259,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1496,
+          "latency_s": 2.07
+        },
+        "MEDIUM": {
+          "translation": "And that which he wrote, \"or he shall marry a third if it is possible for him to provide for them,\" the matter is simple, that even with the second it must be possible for him to provide for them, as is proven in the Gemara. Rather, it comes to teach us that the power is in his hand to withhold the ketubah from both of them and to test himself with a third. And the reason is as we have already explained, that regarding monetary matters there is no hazakah in fewer than three times. And in this, the \"there is one who says\" disagrees and holds that when the second also says that he does not shoot like an arrow, he does not have the power to delay them until the third, since regarding a prohibition there is a hazakah in two times, and he is obligated to divorce them, and consequently he is liable for their ketubah. And if the second also needs to wait ten years, there are two opinions in the Tur; see there. (And see the Beit Shmuel, subsection 15, and in the Gra, subsection 32, and what appears to me in my humble opinion I have written in the explanation of the words of the Shulchan Aruch; and examine it carefully).",
+          "tokens_in": 1237,
+          "tokens_out": 265,
+          "tokens_thinking": 6466,
+          "tokens_cached": null,
+          "tokens_total": 7968,
+          "latency_s": 31.71
+        },
+        "HIGH": {
+          "translation": "And that which he wrote, \"or he shall marry a third if it is possible for him to sustain them,\" the matter is simple, that also with the second it must be possible for him to sustain them, as is proven in the Gemara; rather, it comes to teach us that the power is in his hand to withhold the ketubah from both of them and to test himself with a third. And the reason is as we have already explained, that regarding monetary matters there is no chazakah in less than three times. And in this, the \"there is one who says\" disagrees and holds that when the second also says that he does not shoot like an arrow, he does not have the power to withhold them until the third, since regarding a prohibition there is a chazakah in two times and he is obligated to divorce them, and consequently he is obligated in their ketubah. And if the second must also wait ten years, there are two opinions in the Tur, see there (and see the Beis Shmuel section 15 and in the HaGra section 32, and that which appears correct to me I have written in the explanation of the words of the Shulchan Arukh, and delve into it):",
+          "tokens_in": 1237,
+          "tokens_out": 260,
+          "tokens_thinking": 6824,
+          "tokens_cached": null,
+          "tokens_total": 8321,
+          "latency_s": 32.87
+        }
+      }
+    },
+    {
+      "siman_num": 42,
+      "seif_num": 49,
+      "hebrew": "ודע, דלעניות דעתי היה נראה מתוך סוגית הש\"ס דזה שבארנו אינו אלא בבא להעיד על הקדושין או על הגירושין, דלכן אין אנו מאמינים לו מפני שחשוד לשקר מפנו תאותו המזוהמת, אבל כשהיה עד בשעת הקדושין – וודאי החשוד כשר מן התורה, אבל גדולי האחרונים לא הבינו כן <small>[ע' חמ\"ח סקט\"ו וב\"ש סקכ\"א]</small>, והדבר פשוט שיש לילך הכל לחומרא, והרבה יש לדקדק בזמה\"ז בעידי גיטין וקדושין, דהפרוצים באיזה עבירה אפילו עבירה קלה הלא הם פסולים לעדות.",
+      "levels": {
+        "MINIMAL": {
+          "translation": "And know, that in my humble opinion it would appear from the sugya of the Shas that what we have explained is only when he comes to testify regarding the kiddushin or the divorce, for therefore we do not believe him because he is suspected of lying due to his foul desire; but when he was a witness at the time of the kiddushin—certainly one who is suspected is fit according to the Torah. However, the great Acharonim did not understand it so [see Chelkat Mechokek subsection 15 and Beit Shmuel subsection 21], and it is a simple matter that one must follow the stringency in everything. And there is much to be meticulous about in this time regarding witnesses for gittin and kiddushin, for those who are loose in any transgression, even a light transgression, are indeed disqualified for testimony.",
+          "tokens_in": 1188,
+          "tokens_out": 184,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1372,
+          "latency_s": 1.63
+        },
+        "LOW": {
+          "translation": "And know, that in my humble opinion it would appear from the sugya of the Shas that what we have explained is only in a case where he comes to testify regarding the kiddushin or the divorce, for therefore we do not believe him because he is suspected of lying due to his foul desire; but when he was a witness at the time of the kiddushin – certainly one who is suspected is fit according to the Torah. However, the great later authorities did not understand it so [see Chelkat Mechokek subparagraph 15 and Beit Shmuel subparagraph 21], and it is simple that one must follow everything stringently. And there is much to be precise about in this time regarding witnesses for gittin and kiddushin, for those who are loose in any transgression, even a light transgression, are indeed disqualified for testimony.",
+          "tokens_in": 1188,
+          "tokens_out": 180,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1368,
+          "latency_s": 2.07
+        },
+        "MEDIUM": {
+          "translation": "And know, that in my humble opinion it would appear from the sugya of the Shas that this which we explained is only when he comes to testify about the kiddushin or about the divorce, for therefore we do not believe him because he is suspected of lying due to his foul desire; but when he was a witness at the time of the kiddushin—certainly the suspected one is valid according to the Torah. But the great Acharonim did not understand it so [see Chelkat Mechokek subsection 15 and Beit Shmuel subsection 21], and the matter is simple that one must follow the stringency in everything, and there is much to be meticulous about in this time regarding witnesses of gittin and kiddushin, for those who are loose in any transgression, even a light transgression, behold they are disqualified for testimony.",
+          "tokens_in": 1188,
+          "tokens_out": 183,
+          "tokens_thinking": 5775,
+          "tokens_cached": null,
+          "tokens_total": 7146,
+          "latency_s": 28.34
+        },
+        "HIGH": {
+          "translation": "And know, that in my humble opinion it would appear from the sugya of the Shas that this which we explained is only when he comes to testify about the kiddushin or about the divorce, for therefore we do not believe him because he is suspect of lying due to his foul desire, but when he was a witness at the time of the kiddushin – certainly the suspect is valid according to the Torah, but the great Acharonim did not understand it so [see Chelkat Mechokek subsection 15 and Beit Shmuel subsection 21], and the matter is simple that one must follow everything stringently, and there is much to be meticulous about in this time regarding witnesses of gittin and kiddushin, for those who are loose in any transgression, even a minor transgression, behold they are invalid for testimony.",
+          "tokens_in": 1188,
+          "tokens_out": 179,
+          "tokens_thinking": 8218,
+          "tokens_cached": null,
+          "tokens_total": 9585,
+          "latency_s": 38.51
+        }
+      }
+    },
+    {
+      "siman_num": 135,
+      "seif_num": 0,
+      "hebrew": "<b>צריך לקרות הגט קודם נתינה ולאחריו ועוד דינים. ובו ט\"ו סעיפים:</b><br>העדים שנותנים הגט לפניהם והם עידי מסירה שזהו עיקרו של גט צריכים לקרותו קודם הנתינה (י\"ט:) ומעכב גם בדיעבד דאם לא קראוהו על מה הם עדים הרי אינם יודעים אם גט נתן לה או דבר אחר ומשמע דכאן לא התירו חז\"ל שאחרים יקראו ויאמרו להם כמו בעידי חתימה שבסי' ק\"ל והחילוק פשוט שבע\"ח הקילו כמ\"ש הרמב\"ם בפ\"א משום דע\"ח היתה תקנת חכמים ובארנו זה שם סעיף מ\"ז ע\"ש אבל ע\"מ הם מן התורה ולכן סמוך ממש לנתינתו שזהו גמרו של גט חייבים לקרותו בעצמם מיהו י\"א דכשקורא לפניהם הראש ב\"ד וסופריו שמתייראים ממנו יכולים לסמוך עליהם (ר\"ן פ\"ב) והסברא נותנת כן דהא בשאר שטרות נמי כשר בכה\"ג כמ\"ש בח\"מ סי' מ\"ה ואין לנו להחמיר בגט יותר ובהחתימות הקילו מבשארי שטרות כמ\"ש שם סעיף מ\"ג:",
+      "levels": {
+        "MINIMAL": {
+          "translation": "<b>One must read the get before the giving and after it, and further laws. And it contains fifteen seifim:</b>\nThe witnesses before whom the get is given, and they are the witnesses of delivery (edei mesirah) which is the essence of the get, must read it before the giving (19b). This is a requirement even ex post facto, for if they did not read it, to what are they witnesses? For they do not know if he gave her a get or something else. It appears that here the sages, of blessed memory, did not permit others to read and tell them as they did regarding the witnesses of signature (edei hatimah) in siman 130. The distinction is simple: regarding witnesses of signature they were lenient, as the Rambam wrote in chapter 1, because witnesses of signature was a rabbinic enactment, and we explained this there in seif 47, see there. But witnesses of delivery are from the Torah, and therefore immediately prior to its giving, which is the completion of the get, they are obligated to read it themselves. However, some say that when the head of the beit din and his scribes read before them, of whom they are in awe, they may rely upon them (Ran chapter 2). Logic suggests this, for in other documents it is also valid in such a case, as written in Hoshen Mishpat siman 45, and we should not be more stringent regarding a get; and regarding the signatures they were more lenient than in other documents, as written there in seif 43.",
+          "tokens_in": 1344,
+          "tokens_out": 337,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1681,
+          "latency_s": 2.64
+        },
+        "LOW": {
+          "translation": "<b>One must read the get before the giving and after it, and additional laws. And in it are 15 sections:</b>\nThe witnesses before whom they give the get, and they are the witnesses of delivery which is the essence of the get, must read it before the giving (19b). And it is a requirement even ex post facto, for if they did not read it, to what are they witnesses? For they do not know if he gave her a get or something else. And it implies that here the sages did not permit that others should read and say to them as with the witnesses of signing in siman 130. And the distinction is simple: for with witnesses of signing they were lenient, as the Rambam wrote in chapter 1, because witnesses of signing was an enactment of the sages, and we explained this there in section 47, see there. But witnesses of delivery are from the Torah, and therefore immediately adjacent to its giving, which is the completion of the get, they are obligated to read it themselves. However, some say that when the head of the beit din and his scribes read before them, whom they fear, they can rely on them (Ran chapter 2). And logic dictates this, for indeed with other documents it is also valid in such a case, as written in Choshen Mishpat siman 45, and we should not be more stringent regarding a get. And regarding the signatures they were more lenient than with other documents, as written there in section 43.",
+          "tokens_in": 1344,
+          "tokens_out": 323,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1667,
+          "latency_s": 2.46
+        },
+        "MEDIUM": {
+          "translation": "One must read the get before the delivery and after it, and other laws. And it contains 15 seifim.\nThe witnesses before whom the get is given, and they are the eidei mesirah, which is the essence of the get, must read it before the delivery (19b). And it is indispensable even ex post facto, for if they did not read it, regarding what are they witnesses? Behold, they do not know if he gave her a get or something else. And it implies that here the Sages did not permit others to read and tell them as they did regarding the eidei chatimah in siman 130. And the distinction is simple, for regarding eidei chatimah they were lenient, as the Rambam wrote in chapter 1, because eidei chatimah was an enactment of the Sages, and we explained this there in seif 47; see there. But eidei mesirah are from the Torah, and therefore, immediately adjacent to its delivery, which is the completion of the get, they must read it themselves. However, some say that when the head of the beit din and his scribes read before them, of whom they are in awe, they may rely upon them (the Ran, chapter 2). And logic dictates this, for behold, in other legal documents it is also valid in such a case, as written in Choshen Mishpat siman 45, and we should not be more stringent regarding a get. And regarding the signatures, they were more lenient than in other legal documents, as written there in seif 43.",
+          "tokens_in": 1344,
+          "tokens_out": 345,
+          "tokens_thinking": 23039,
+          "tokens_cached": null,
+          "tokens_total": 24728,
+          "latency_s": 99.56
+        },
+        "HIGH": {
+          "translation": "<b>One must read the get before the delivery and after it, and other laws. And it contains fifteen seifim:</b>\nThe witnesses before whom they give the get, and they are the edei mesirah, for this is the essence of the get, must read it before the delivery (19b). And it is a hindrance even ex post facto, for if they did not read it, to what are they witnesses? Behold, they do not know if he gave her a get or something else. And it implies that here our Sages of blessed memory did not permit that others should read and say to them, as with the edei chatimah in siman 130. And the distinction is simple, that with edei chatimah they were lenient, as the Rambam wrote in chapter 1, because edei chatimah was an enactment of the Sages, and we explained this there in seif 47; see there. But edei mesirah are from the Torah, and therefore, immediately prior to its delivery, which is the completion of the get, they are obligated to read it themselves. However, some say that when the head of the beit din and his scribes, of whom they are in awe, read before them, they may rely on them (Ran, chapter 2). And logic suggests this, for behold, in other documents it is also valid in such a case, as written in Choshen Mishpat siman 45, and we should not be more stringent regarding a get; and regarding the signatures, they were more lenient than in other documents, as written there in seif 43.",
+          "tokens_in": 1344,
+          "tokens_out": 346,
+          "tokens_thinking": 23036,
+          "tokens_cached": null,
+          "tokens_total": 24726,
+          "latency_s": 94.96
+        }
+      }
+    },
+    {
+      "siman_num": 166,
+      "seif_num": 4,
+      "hebrew": "מצות יבום וחליצה כך הוא אם היבם במקום אחד והיא במקום אחר מחוייבת היבמה לילך אחר היבם ואפילו במקום היבמה יש ב\"ד גדול ובמקום היבם יש ב\"ד קטן מחוייבת לילך אחריו שנאמר וקראו לו זקני עירו ולא זקני עירה (סנהד' ל\"א:) ודווקא למקום שהוא דר שם בקביעות מחוייבת לילך אבל הלך ממקומו למקום אחר לאיזה עסק ולא עקר דירתו בקביעות אינה מחוייבת לילך אחריו לשם דלאו זקני עירו מקרי (נמק\"י שם) וכן משמע בירושלמי ומוכרח הוא לבא למקומה (ב\"ש סק\"א) וכן אם אין ב\"ד במקומו מחוייב לילך למקומה כשיש שם ב\"ד דבמקומו אין כאן זקני עירו דזקנים היינו ב\"ד ואם אין ב\"ד גם במקומה הולכים שניהם למקום שיש ב\"ד והולכת למקום שקרוב לו יותר כיון שמן הדין עליה לילך אחריו יש לו זכות גם בקריבות מקום (נ\"ל) וכן אם דר בין הכותים דינו כמקום שאין ב\"ד ואינו יכול לומר לה הבא לי ב\"ד למקומי דאין לב\"ד לילך אחריו אלא עליו לילך למקום הוועד ויפטור יבמתו ונראה פשוט שזהו דווקא כשלא הסכימו שניהם על יבום או במקום שאין מייבמין אבל במקום שמייבמין ורצון שניהם ביבום א\"צ ב\"ד אלא מקדשה במאמר לפני עדים ובא עליה כמו שיתבאר:",
+      "levels": {
+        "MINIMAL": {
+          "translation": "The mitzvah of yibum and chalitzah is as follows: if the yavam is in one place and she is in another place, the yevamah is obligated to go after the yavam. And even if in the place of the yevamah there is a great beit din and in the place of the yavam there is a small beit din, she is obligated to go after him, as it is said: \"And the elders of his city shall call him,\" and not the elders of her city (Sanhedrin 31b). And specifically to the place where he dwells permanently is she obligated to go, but if he went from his place to another place for some business and did not uproot his permanent dwelling, she is not obligated to go after him there, for it is not called \"the elders of his city\" (Nimukei Yosef ibid.). And so it is implied in the Yerushalmi, and he is forced to come to her place (Beit Shmuel, subsection 1). And likewise, if there is no beit din in his place, he is obligated to go to her place when there is a beit din there, for in his place there are no \"elders of his city,\" as \"elders\" means a beit din. And if there is no beit din in her place either, they both go to a place where there is a beit din, and she goes to the place that is closer to him; since by law she must go after him, he has the right also regarding the proximity of the place (it appears to me). And likewise, if he dwells among the Cutheans, his status is like a place where there is no beit din, and he cannot say to her, \"Bring me a beit din to my place,\" for it is not for the beit din to go after him, but rather he must go to the place of assembly and exempt his yevamah. And it seems simple that this is specifically when they both did not agree to yibum, or in a place where they do not perform yibum; but in a place where they perform yibum and the will of both of them is for yibum, they do not need a beit din, but rather he betroths her with maamar before witnesses and has relations with her, as will be explained.",
+          "tokens_in": 1432,
+          "tokens_out": 493,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1925,
+          "latency_s": 3.09
+        },
+        "LOW": {
+          "translation": "The commandment of yibum and chalitzah is as follows: if the yavam is in one place and she is in another place, the yevamah is obligated to follow after the yavam. And even if in the place of the yevamah there is a large beit din and in the place of the yavam there is a small beit din, she is obligated to follow after him, as it is said: \"And the elders of his city shall call him,\" and not the elders of her city (Sanhedrin 31b). And specifically to the place where he dwells permanently is she obligated to go, but if he went from his place to another place for some business and did not uproot his permanent dwelling, she is not obligated to follow after him there, for it is not called \"the elders of his city\" (Nimukei Yosef ibid.). And so it is implied in the Yerushalmi, and he is forced to come to her place (Beit Shmuel, small paragraph 1). And likewise, if there is no beit din in his place, he is obligated to go to her place when there is a beit din there, for in his place there are no \"elders of his city,\" as \"elders\" means a beit din. And if there is no beit din in her place either, they both go to a place where there is a beit din, and she goes to the place that is closer to him; since by law she must follow after him, he also has the right to the proximity of the place (it appears to me). And likewise, if he dwells among the Cutheans, his status is like a place where there is no beit din, and he cannot say to her, \"Bring me a beit din to my place,\" for the beit din does not have to follow after him; rather, he must go to the place of assembly and release his yevamah. And it seems simple that this is specifically when they both did not agree to yibum, or in a place where they do not perform yibum; but in a place where they perform yibum and the will of both of them is for yibum, they do not need a beit din; rather, he betroths her with ma'amar before witnesses and has relations with her, as will be explained.",
+          "tokens_in": 1432,
+          "tokens_out": 492,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1924,
+          "latency_s": 3.28
+        },
+        "MEDIUM": {
+          "translation": "The commandment of yibum and chalitzah is as follows: if the yavam is in one place and she is in another place, the yevamah is obligated to follow the yavam. And even if in the place of the yevamah there is a large beit din and in the place of the yavam there is a small beit din, she is obligated to follow him, as it is said: \"And the elders of his city shall call him\" and not the elders of her city (Sanhedrin 31b). And specifically to the place where he dwells permanently is she obligated to go, but if he went from his place to another place for some business and did not uproot his permanent dwelling, she is not obligated to follow him there, for it is not called \"the elders of his city\" (Nimukei Yosef ibid.). And so it is implied in the Yerushalmi, and he is compelled to come to her place (Beit Shmuel sub-section 1). And so if there is no beit din in his place, he is obligated to go to her place when there is a beit din there, for in his place there are no \"elders of his city,\" as \"elders\" means a beit din. And if there is no beit din in her place either, they both go to a place where there is a beit din, and she goes to the place that is closer to him; since by law she must follow him, he has the right also in the proximity of the place (it appears to me). And so if he dwells among the Cutheans, his status is like a place where there is no beit din, and he cannot say to her, \"Bring me a beit din to my place,\" for the beit din does not have to follow him; rather, he must go to the place of assembly and release his yevamah. And it appears simple that this is specifically when both did not agree on yibum or in a place where they do not perform yibum; but in a place where they perform yibum and the will of both is for yibum, a beit din is not needed; rather, he betroths her with maamar before witnesses and has relations with her, as will be explained:",
+          "tokens_in": 1432,
+          "tokens_out": 479,
+          "tokens_thinking": 6178,
+          "tokens_cached": null,
+          "tokens_total": 8089,
+          "latency_s": 29.9
+        },
+        "HIGH": {
+          "translation": "The commandment of yibum and chalitzah is thus: if the yavam is in one place and she is in another place, the yevamah is obligated to follow the yavam, and even if in the place of the yevamah there is a great beit din and in the place of the yavam there is a small beit din, she is obligated to follow him, as it is said, \"And the elders of his city shall call him,\" and not the elders of her city (Sanhedrin 31b). And specifically to the place where he dwells permanently is she obligated to go, but if he went from his place to another place for some business and did not uproot his residence permanently, she is not obligated to follow him there, for it is not called \"the elders of his city\" (Nimukei Yosef ibid.). And so it is implied in the Yerushalmi, and he is forced to come to her place (Beit Shmuel, small section 1). And so if there is no beit din in his place, he is obligated to go to her place when there is a beit din there, for in his place there are no \"elders of his city,\" as \"elders\" means a beit din. And if there is no beit din also in her place, they both go to a place that has a beit din, and she goes to the place that is closer to him, since by law she must follow him, he has the right also regarding the proximity of the place (it appears to me). And so if he dwells among the Kuthim, his status is like a place that has no beit din, and he cannot say to her, \"Bring me a beit din to my place,\" for a beit din does not have to follow him; rather, he must go to the place of assembly and release his yevamah. And it seems simple that this is specifically when both did not agree on yibum or in a place where they do not perform yibum; but in a place where they perform yibum and the will of both of them is for yibum, a beit din is not necessary; rather, he betroths her with ma'amar before witnesses and has relations with her, as will be explained.",
+          "tokens_in": 1432,
+          "tokens_out": 479,
+          "tokens_thinking": 23036,
+          "tokens_cached": null,
+          "tokens_total": 24947,
+          "latency_s": 99.37
+        }
+      }
+    },
+    {
+      "siman_num": 31,
+      "seif_num": 18,
+      "hebrew": "הא דאמרינן שהיא מקודשת מספק שמא דבר זה ש\"פ במק\"א – צריכה גט להתירה לעלמא, ואם רוצה לקיימה – צריכה קדושין אחרים, ואפילו ידוע שש\"פ במקום אחר כיון דלרוב הפוסקים אינן אלא קדושי דרבנן <small>[ב\"ש]</small>. וי\"א שא\"צ קדושין אחרים, כמו בקדושי קטנה שהקדושים הם מדרבנן וכי גדלה מכוין לקדשה בביאה, וה\"נ כן <small>[ב\"ח]</small>, אבל בחששא דשמא ש\"פ במק\"א אינן אפילו קדושין דרבנן גמורים אלא חששא בעלמא <small>[כ\"מ גם מהב\"ש]</small>, ואע\"ג דהטעם בקטנה הוא מפני שאדם יודע שמן התורה אין קדושי קטנה כלום ולכן כי בעיל בגדלותה בועל לשם קדושין, אמנם בכאן נמי אדם יודע שאין בקדושי פחות מש\"פ קדושי תורה ויבעול לשם קדושין. וי\"א עוד דבכל עניין א\"צ קדושין אחרים, דאפילו בקדושי טעות א\"צ לחזור ולקדשה דבעילתו קניא וא\"צ קדושין אחרים <small>[ד\"מ בשם מרדכי]</small>, ואין כן דעת הטור והשו\"ע, וכ\"כ בסי' מ\"ב דבקדושי ספק צריך לחזור ולקדש, ע\"ש. וגם בזה שכתבנו דאדם יודע שאין אשה מתקדשת בפחות מש\"פ יש בגמ' פלוגתא בזה <small>[כתובות ע\"ג:]</small> ולפיכך בכל עניין צריך לקדשה מחדש לכתחלה, דלהרמב\"ם כל עיקר דבר זה כקדושי ספק, <small>[ופשיטא דלבה\"ג צריך קדושין אחרים]</small>.",
+      "levels": {
+        "MINIMAL": {
+          "translation": "That which we say, that she is betrothed out of doubt lest this item is worth a perutah in another place—she requires a get to permit her to the world, and if he wishes to keep her, she requires other kiddushin; and even if it is known that it is worth a perutah in another place, since according to most poskim these are only rabbinic kiddushin. And some say that she does not require other kiddushin, just as with the kiddushin of a minor where the kiddushin are rabbinic and when she grows up he intends to betroth her through intercourse, and so too here. However, regarding the concern that perhaps it is worth a perutah in another place, these are not even complete rabbinic kiddushin but merely a concern. And even though the reason regarding a minor is because a person knows that according to the Torah the kiddushin of a minor are nothing and therefore when he has intercourse when she is an adult he has intercourse for the sake of kiddushin, indeed here too a person knows that there are no Torah kiddushin in kiddushin of less than a perutah and he will have intercourse for the sake of kiddushin. And some say further that in any case he does not require other kiddushin, for even in erroneous kiddushin he does not need to return and betroth her because his intercourse acquires and he does not require other kiddushin. And this is not the opinion of the Tur and the Shulchan Aruch, and so he wrote in siman 42 that in doubtful kiddushin one must return and betroth, see there. And also regarding this which we wrote, that a person knows that a woman is not betrothed with less than a perutah, there is a dispute in the Gemara regarding this, and therefore in any case he must betroth her anew ab initio, for according to the Rambam this entire matter is like doubtful kiddushin.",
+          "tokens_in": 1490,
+          "tokens_out": 417,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1907,
+          "latency_s": 2.62
+        },
+        "LOW": {
+          "translation": "That which we say, that she is betrothed out of doubt lest this item is worth a perutah in another place—she requires a get to permit her to the world, and if he wishes to maintain the marriage, she requires other kiddushin; and even if it is known that it is worth a perutah in another place, since according to most poskim these are only rabbinic kiddushin [Beit Shmuel]. And some say that she does not require other kiddushin, just as with the kiddushin of a minor where the kiddushin are rabbinic and when she grows up he intends to betroth her through intercourse, and here too it is so [Bach]. However, regarding the concern that perhaps it is worth a perutah in another place, these are not even complete rabbinic kiddushin but merely a concern [as is also implied by the Beit Shmuel]. And even though the reason regarding a minor is because a person knows that from the Torah the kiddushin of a minor are nothing and therefore when he has intercourse during her adulthood he does so for the sake of kiddushin, indeed here too a person knows that there is no Torah kiddushin in kiddushin of less than a perutah and he will have intercourse for the sake of kiddushin. And some say further that in any case he does not require other kiddushin, for even in mistaken kiddushin he does not need to return and betroth her because his intercourse effects acquisition and he does not require other kiddushin [Darchei Moshe in the name of the Mordechai]. But this is not the opinion of the Tur and the Shulchan Aruch, and so he wrote in siman 42 that in doubtful kiddushin one must return and betroth, see there. And also regarding this which we wrote, that a person knows that a woman is not betrothed with less than a perutah, there is a dispute in the Gemara regarding this [Ketubot 73b], and therefore in any case he must betroth her anew ab initio, for according to the Rambam this entire matter is like doubtful kiddushin [and it is obvious that according to the Bahag he requires other kiddushin].",
+          "tokens_in": 1490,
+          "tokens_out": 476,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1966,
+          "latency_s": 3.07
+        },
+        "MEDIUM": {
+          "translation": "That which we say that she is betrothed out of doubt lest this item is worth a perutah in another place – she requires a get to permit her to the world, and if he wants to maintain her – she requires other kiddushin, and even if it is known that it is worth a perutah in another place, since according to most poskim these are only rabbinic kiddushin [Beit Shmuel]. And some say that she does not require other kiddushin, just as with the kiddushin of a minor girl where the kiddushin are rabbinic and when she grows up he intends to betroth her through intercourse, and so too here [Bach], but regarding the concern lest it is worth a perutah in another place, they are not even complete rabbinic kiddushin but merely a concern [so it is implied also from the Beit Shmuel], and even though the reason regarding a minor girl is because a person knows that from the Torah the kiddushin of a minor girl are nothing and therefore when he has intercourse when she is an adult he has intercourse for the sake of kiddushin, however here too a person knows that there are no Torah kiddushin with less than the value of a perutah and he will have intercourse for the sake of kiddushin. And some say further that in any case she does not require other kiddushin, for even in mistaken kiddushin he does not need to return and betroth her, for his intercourse acquires and he does not need other kiddushin [Darkhei Moshe in the name of Mordechai], and this is not the opinion of the Tur and the Shulchan Arukh, and so he wrote in siman 42 that in doubtful kiddushin one must return and betroth, see there. And also regarding this which we wrote that a person knows that a woman is not betrothed with less than the value of a perutah, there is a dispute in the Gemara regarding this [Ketubot 73b], and therefore in any case he must betroth her anew l'chatchila, for according to the Rambam this entire matter is like doubtful kiddushin, [and it is obvious that according to the Behag he requires other kiddushin].",
+          "tokens_in": 1490,
+          "tokens_out": 479,
+          "tokens_thinking": 9880,
+          "tokens_cached": null,
+          "tokens_total": 11849,
+          "latency_s": 46.18
+        },
+        "HIGH": {
+          "translation": "That which we say that she is betrothed out of doubt lest this item is worth a perutah in another place – she requires a get to permit her to the world, and if he wants to maintain her – she requires other kiddushin, and even if it is known that it is worth a perutah in another place, since according to most poskim they are only rabbinic kiddushin [the Beit Shmuel]. And some say that she does not require other kiddushin, just as with the kiddushin of a minor girl where the kiddushin are rabbinic and when she grows up he intends to betroth her through intercourse, and here too it is so [the Bach], but regarding the concern that perhaps it is worth a perutah in another place, they are not even complete rabbinic kiddushin but merely a concern [as is also evident from the Beit Shmuel], and even though the reason regarding a minor girl is because a person knows that according to the Torah the kiddushin of a minor girl are nothing and therefore when he has intercourse in her adulthood he has intercourse for the sake of kiddushin, however here too a person knows that there are no Torah kiddushin in kiddushin of less than worth a perutah and he will have intercourse for the sake of kiddushin. And some say further that in any case she does not require other kiddushin, for even in kiddushin of error he does not need to return and betroth her, for his intercourse acquires and he does not need other kiddushin [the Darkhei Moshe in the name of the Mordechai], and this is not the opinion of the Tur and the Shulchan Arukh, and thus he wrote in siman 42 that in doubtful kiddushin one must return and betroth, see there. And also regarding this which we wrote that a person knows that a woman is not betrothed with less than worth a perutah, there is a dispute in the Gemara regarding this [Ketubot 73b], and therefore in any case he must betroth her anew ab initio, for according to the Rambam this whole matter is like doubtful kiddushin, [and it is obvious that according to the Behag he requires other kiddushin].",
+          "tokens_in": 1490,
+          "tokens_out": 481,
+          "tokens_thinking": 23038,
+          "tokens_cached": null,
+          "tokens_total": 25009,
+          "latency_s": 108.27
+        }
+      }
+    }
+  ],
+  "cm": [
+    {
+      "siman_num": 291,
+      "seif_num": 22,
+      "hebrew": "וי\"א דדוקא לחצר אבל אם אחד נתן רשות לאחר להכניס חפציו לביתו אפילו לא קבל עליו בפירוש לשמור חייב בעה\"ב בשמירתן [ש\"ך בשם הג\"א] וכן עיקר דכן משמע בירושלמי [פ\"ה דב\"ק] והטעם דדוקא בחצר יכול להיות שהיתה כוונתו אני נותן לך רשות ואחה תשמרנה דבחצר הכל נכנסין ויוצאין ותוכל לשמור אבל בבית אין דרך להתעכב שם בלי רשות מהבעה\"ב ואם הבעה\"ב לא ישמרנה מי זה ישמור אבל אם א\"ל הרי הבית לפניך גרע מנתינת רשות ואינו חייב בשום שמירה [שם] דלשון זה משמע אם תרצה תניח ואם לא תרצה לא תניח ואני אין לי עסק בזה וכן אם ייחד לו מקום בהבית כגון שא\"ל הנח בחדר זה או בזוית זו אינו חייב בשום שמירה דזהו ג\"כ במפורש שאינו מקבל שמירה [ר\"ן פ\"ק דפסחים] אלא בחדר זה או בזוית זו אני נותן לך רשות להניח והוא כשלך לענין חפציך [נה\"מ]:",
+      "levels": {
+        "MINIMAL": {
+          "translation": "And some say that this applies specifically to a courtyard, but if one gave permission to another to bring his objects into his house, even if he did not explicitly accept upon himself to guard them, the homeowner is liable for their guarding [Shach in the name of the Hagahot Ashri]. And such is the primary view, for so it is implied in the Yerushalmi [chapter 5 of Bava Kamma]. And the reason is that specifically in a courtyard, it is possible that his intention was: \"I give you permission and you shall guard them,\" for in a courtyard everyone enters and exits and you are able to guard; but in a house, it is not the way to linger there without permission from the homeowner, and if the homeowner will not guard it, who is it that will guard? But if he said to him, \"Behold, the house is before you,\" it is inferior to giving permission and he is not liable for any guarding [ibid.], for this language implies: \"If you wish, place them, and if you do not wish, do not place them, and I have no involvement in this.\" And likewise, if he designated a place for him in the house, such as if he said to him, \"Place them in this room\" or \"in this corner,\" he is not liable for any guarding, for this is also explicitly that he does not accept guarding [Ran, first chapter of Pesachim], but rather: \"In this room or in this corner I give you permission to place them,\" and it is like yours regarding your objects [Netivot HaMishpat].",
+          "tokens_in": 1319,
+          "tokens_out": 337,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1656,
+          "latency_s": 2.48
+        },
+        "LOW": {
+          "translation": "And some say that this specifically applies to a courtyard, but if one gave permission to another to bring his objects into his house, even if he did not explicitly take upon himself to guard them, the homeowner is liable for their guarding [Shach in the name of the Hagahot Ashri]. And such is the primary view, as this is implied in the Yerushalmi [chapter 5 of Bava Kamma]. And the reason is that specifically in a courtyard, it is possible that his intention was: \"I am giving you permission and you shall guard them,\" for in a courtyard everyone enters and exits and you are able to guard; but in a house, it is not the way to linger there without permission from the homeowner, and if the homeowner will not guard it, who is it that will guard? But if he said to him, \"Behold, the house is before you,\" it is inferior to giving permission and he is not liable for any guarding [ibid.], for this language implies: \"If you wish, place them, and if you do not wish, do not place them, and I have no involvement in this.\" And similarly, if he designated a place for him in the house, such as if he said to him, \"Place them in this room\" or \"in this corner,\" he is not liable for any guarding, for this is also explicitly that he is not accepting guarding [Ran, first chapter of Pesachim], but rather: \"In this room or in this corner I am giving you permission to place them,\" and it is like yours regarding your objects [Netivot HaMishpat].",
+          "tokens_in": 1319,
+          "tokens_out": 338,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1657,
+          "latency_s": 2.66
+        },
+        "MEDIUM": {
+          "translation": "And some say that specifically to a courtyard, but if one gave permission to another to bring his items into his house, even if he did not explicitly accept upon himself to guard, the homeowner is liable for their guarding [the Shach in the name of the Hagahot Ashri]. And this is the primary [ruling], for so it is implied in the Yerushalmi [chapter 5 of Bava Kamma]. And the reason is that specifically in a courtyard, it could be that his intention was: I am giving you permission and you shall guard it, for in a courtyard everyone enters and exits and you are able to guard. But in a house, it is not the way to linger there without permission from the homeowner, and if the homeowner does not guard it, who is it that will guard? But if he said to him, \"Behold, the house is before you,\" it is worse than the giving of permission and he is not liable for any guarding [ibid.], for this expression implies: if you want, place, and if you do not want, do not place, and I have no involvement in this. And likewise, if he designated a place for him in the house, such as if he said to him, \"Place in this room\" or \"in this corner,\" he is not liable for any guarding, for this is also explicitly that he does not accept guarding [the Ran, first chapter of Pesachim]; rather, in this room or in this corner I am giving you permission to place, and it is like yours regarding your items [the Netivot HaMishpat].",
+          "tokens_in": 1319,
+          "tokens_out": 335,
+          "tokens_thinking": 9595,
+          "tokens_cached": null,
+          "tokens_total": 11249,
+          "latency_s": 44.03
+        },
+        "HIGH": {
+          "translation": "And some say that specifically for a courtyard, but if one gave permission to another to bring his items into his house, even if he did not explicitly accept upon himself to guard, the ba'al habayit is liable for their guarding [the Shach in the name of Hagahot Ashri]. And such is the primary, for so it is implied in the Yerushalmi [chapter 5 of Bava Kamma]. And the reason is that specifically in a courtyard, it is possible that his intention was \"I give you permission and you shall guard it,\" for in a courtyard everyone enters and exits and you can guard; but in a house, it is not the way to linger there without permission from the ba'al habayit, and if the ba'al habayit does not guard it, who is it that will guard? But if he said to him, \"Behold, the house is before you,\" it is worse than giving permission and he is not liable for any guarding [ibid.], for this language implies: \"If you want, place, and if you do not want, do not place, and I have no business in this.\" And similarly, if he designated for him a place in the house, such as if he said to him, \"Place in this room\" or \"in this corner,\" he is not liable for any guarding, for this is also explicitly that he does not accept guarding [the Ran, first chapter of Pesachim]; rather, \"In this room or in this corner I give you permission to place, and it is like yours regarding your items\" [the Netivot HaMishpat].",
+          "tokens_in": 1319,
+          "tokens_out": 340,
+          "tokens_thinking": 23038,
+          "tokens_cached": null,
+          "tokens_total": 24697,
+          "latency_s": 103.86
+        }
+      }
+    },
+    {
+      "siman_num": 146,
+      "seif_num": 20,
+      "hebrew": "בזה שאמרנו דעביד אינש דזבן דיניה אינו יכול לתבוע המעות אם אפילו נתברר שבאמת זבין דיניה כגון המערער הזה שלקחה מהמוכר ובירר אח\"כ שהיתה שלו והמעות שנתן בחנם נתן דאדרבא כיון דעביד אינש דזבין דיניה וודאי לא היתה כוונתו לתבוע מעותיו בחזרה והמוכר יכול לומר או שחזר ולקחה ממנו ומכר לו אח\"כ או שנתן לו לשם מתנה וכן פסק הרשב\"א ז\"ל במי שקנה קרקע אחת שני פעמים ותובע המוכר במעות השניים אם טוען המוכר שחזר ולקחה מן הלוקח וחזר ומכרה לו נאמן דכיון שעשה מעשה בקנייתו הוי ראיה גמורה שחזר ומכרה לו ואם המוכר אינו טוען כך אלא טוען דלמתנה נתת לי אם יש להמוכר מיגו שהיה יכול לומר לא לקחת ממני שני פעמים דאין עדים בדבר נאמן לומר שלמתנה נתנם לו ואם יש עדים בזה צריך הלוקח לברר למה קנאה שני פעמים אם אמר שטעה או שמברר שאנוס היה והיה מוכרח לזה נאמן ומחזיר לו מעות השניים [נ\"ל] ואם אמר שידע ולא היה אנוס הדין עם המוכר דוודאי לשם מתנה נתן לו והוה כמקדש אחותו דקיי\"ל באה\"ע סי' נ' דמעות מתנה ואף שבסי' שע\"ג יתבאר בקנה שדה גזולה דהמעות פקדון ולא מתנה הכא אנן סהדי דלא הוה יהיב ליה פקדון למוכר זה כיון שיש יכולת בידו לומר שחזר וקנאה ממנו או איזה טענה אחרת אף שאינו נאמן מ\"מ לא הוה מפקיד גביה משא\"כ בסי' שע\"ג י\"ל דלפי שעה היה רצונו לעשות טובה להנגזל ולהוציא השדה מיד הגזלן ולכך נתן לו המעות וכוונתו לשם פקדון דע\"פ רוב אין אדם נותן מתנות אבל בכאן מי הכריחו לזה [ומיושב קושית הש\"ך ועאו\"ת ונה\"מ] ואף שיתבאר בסי' שנ\"ד דכשקנה חפץ מגנב מפורסם א\"צ הגנב להחזיר המעות והם מתנה ולמה לא נאמר ג\"כ שהיה רצונו לעשות טובה להנגנב להחזיר לו חפצו וכוונתו היתה לשם פקדון דבמטלטלים אין בהם חשיבות כל כך שנאמר סברא זו דיש לקנות אחרים במקומן ועוד דלגנב מפורסם לא היה מאמין להפקיד אצלו [נ\"ל] ודומה למ\"ש בסי' ר\"ך במכר את הצמד דהמעות מתנה ובסי' רל\"ב במצא יתרון במעות ע\"ש [ע' ב\"ב ע\"ח. תוס' ד\"ה אבל]:",
+      "levels": {
+        "MINIMAL": {
+          "translation": "Regarding that which we have said, that a person is prone to buy his legal rights, he cannot claim the money even if it was clarified that he truly bought his legal rights—such as this challenger who purchased it from the seller and afterwards clarified that it was his, and the money he gave was given for nothing. On the contrary, since a person is prone to buy his legal rights, certainly his intention was not to claim his money back, and the seller can say either that he had bought it back from him and then sold it to him, or that he gave it to him as a gift. And so ruled the Rashba, of blessed memory, regarding one who purchased a single piece of land twice and claims the second payment from the seller: if the seller claims that he had bought it back from the buyer and sold it to him again, he is believed, for since he performed an act of acquisition, it is complete proof that he had sold it back to him. And if the seller does not claim this, but rather claims \"you gave it to me as a gift,\" if the seller has a migo—in that he could have said \"you did not buy it from me twice\" because there are no witnesses to the matter—he is believed to say that he gave them to him as a gift. \n\nAnd if there are witnesses to this, the buyer must clarify why he purchased it twice; if he said that he erred, or if he clarifies that he was under duress and was forced into this, he is believed and he returns the second payment to him [it appears to me]. But if he said that he knew and was not under duress, the law is with the seller, for certainly he gave it to him as a gift, and it is like one who betrothes his sister, where we established in Even HaEzer siman 50 that the money is a gift. And even though in siman 373 it will be explained regarding one who buys a stolen field that the money is a deposit and not a gift, here we are witnesses that he would not give a deposit to this seller, since he has the ability to say that he bought it back from him or some other claim; even if he is not believed, nevertheless he would not deposit with him. This is not the case in siman 373, where it can be said that for the moment his desire was to do a favor for the victim of the robbery and to remove the field from the hand of the robber, and therefore he gave him the money and his intention was for a deposit, for usually a person does not give gifts; but here, who forced him to do this? [And the difficulty of the Shach, the Urim VeTumim, and the Netivot HaMishpat is settled]. \n\nAnd even though it will be explained in siman 354 that when one buys an object from a notorious thief, the thief does not need to return the money and it is a gift—and why do we not say there as well that his desire was to do a favor for the victim of the theft to return his object to him and his intention was for a deposit? For regarding movable objects, they do not have such importance that we should say this reasoning, as others can be bought in their place. Furthermore, he would not trust a notorious thief to deposit with him [it appears to me]. And it is similar to what is written in siman 220 regarding one who sold a yoke, that the money is a gift, and in siman 232 regarding one who found a surplus in the money, see there [see Bava Batra 78a, Tosafot starting with \"But\"].",
+          "tokens_in": 1783,
+          "tokens_out": 781,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 2564,
+          "latency_s": 4.67
+        },
+        "LOW": {
+          "translation": "Regarding that which we have said that a person is prone to buy his legal rights, he cannot claim the money even if it was clarified that he truly bought his legal rights, such as this challenger who purchased it from the seller and afterwards clarified that it was his, and the money he gave was given for nothing; for on the contrary, since a person is prone to buy his legal rights, certainly his intention was not to claim his money back. And the seller can say either that he went back and purchased it from him and sold it to him afterwards, or that he gave it to him as a gift. And so ruled the Rashba, of blessed memory, regarding one who purchased a single piece of land twice and claims the second payment from the seller: if the seller claims that he went back and purchased it from the buyer and went back and sold it to him, he is believed, since he performed an act with his purchase, it is complete proof that he went back and sold it to him. And if the seller does not claim thus, but rather claims \"you gave it to me as a gift,\" if the seller has a migu in that he could have said \"you did not purchase from me twice\" because there are no witnesses to the matter, he is believed to say that he gave them to him as a gift. And if there are witnesses to this, the buyer must clarify why he purchased it twice; if he said that he erred, or if he clarifies that he was under duress and was forced into this, he is believed and he returns the second payment to him [it appears to me]. And if he said that he knew and was not under duress, the law is with the seller, for certainly he gave it to him as a gift, and it is like one who betrothes his sister, where we established in Even HaEzer siman 50 that the money is a gift. And even though in siman 373 it will be explained regarding one who purchases a stolen field that the money is a deposit and not a gift, here we are witnesses that he would not have given him a deposit to this seller, since he has the ability to say that he went back and purchased it from him or some other claim; even though he is not believed, nevertheless he would not deposit with him. This is not the case in siman 373, where it can be said that for the moment his desire was to do a favor for the victim of the robbery and to remove the field from the hand of the robber, and therefore he gave him the money and his intention was for the sake of a deposit, for most often a person does not give gifts; but here, who forced him to this? [And the difficulty of the Shach and Urim VeTumim and Netivot HaMishpat is settled]. And even though it will be explained in siman 354 that when one purchases an object from a notorious thief, the thief does not need to return the money and they are a gift, and why do we not also say that his desire was to do a favor for the victim of the theft to return his object to him and his intention was for the sake of a deposit? For with movable property, they do not have such significance that we should say this reasoning, as others can be purchased in their place; and furthermore, he would not trust a notorious thief to deposit with him [it appears to me]. And it is similar to what is written in siman 220 regarding one who sold the yoke, that the money is a gift, and in siman 232 regarding one who found a surplus in the money, see there [see Bava Batra 78a, Tosafot s.v. \"aval\"].",
+          "tokens_in": 1783,
+          "tokens_out": 788,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 2571,
+          "latency_s": 4.71
+        },
+        "MEDIUM": {
+          "translation": "In this which we said that a person is prone to zavin dineia, he cannot claim the money even if it was clarified that he truly bought his judgment, such as this claimant who bought it from the seller and clarified afterward that it was his, and the money he gave, he gave for nothing. For on the contrary, since a person is prone to zavin dineia, certainly his intention was not to claim his money back, and the seller can say either that he went back and bought it from him and sold it to him afterward, or that he gave it to him as a gift. And so ruled the Rashba, of blessed memory, regarding one who bought a certain land twice and claims the second payment from the seller: if the seller claims that he went back and bought it from the buyer and went back and sold it to him, he is believed, for since he performed an act of acquisition, it is complete proof that he went back and sold it to him. And if the seller does not claim thus, but rather claims \"you gave it to me as a gift,\" if the seller has a migo in that he could have said \"you did not buy from me twice\" because there are no witnesses to the matter, he is believed to say that he gave them to him as a gift. And if there are witnesses to this, the buyer must clarify why he bought it twice; if he said that he erred, or if he clarifies that he was under duress and was forced into this, he is believed and he returns the second payment to him [it seems to me]. And if he said that he knew and was not under duress, the law is with the seller, for certainly he gave it to him as a gift, and it is like one who betroths his sister, where we establish in Even HaEzer siman 50 that the money is a gift. And even though in siman 373 it will be explained regarding one who buys a stolen field that the money is a deposit and not a gift, here we are anan sahadi that he would not have given him a deposit to this seller, since he has the ability to say that he went back and bought it from him or some other claim; even if he is not believed, nevertheless, he would not deposit with him. This is not the case in siman 373, where it can be said that for the moment his desire was to do a favor for the victim of the robbery and to remove the field from the hand of the robber, and therefore he gave him the money, and his intention was as a deposit, for usually a person does not give gifts; but here, who forced him to this? [And the difficulty of the Shach and the Urim VeTumim and the Netivot HaMishpat is resolved]. And even though it will be explained in siman 354 that when one buys an object from a notorious thief, the thief does not need to return the money and they are a gift—and why do we not say also that his desire was to do a favor for the victim of the theft to return his object to him and his intention was as a deposit? For regarding movable objects, they do not have such importance that we should say this reasoning, as one can buy others in their place; and furthermore, he would not trust a notorious thief to deposit with him [it seems to me]. And it is similar to what is written in siman 220 regarding one who sold a yoke, that the money is a gift, and in siman 232 regarding one who found an excess in the money, see there [see Bava Batra 78b, Tosafot s.v. aval].",
+          "tokens_in": 1783,
+          "tokens_out": 783,
+          "tokens_thinking": 23038,
+          "tokens_cached": null,
+          "tokens_total": 25604,
+          "latency_s": 99.94
+        },
+        "HIGH": {
+          "translation": "Regarding that which we said that a person is prone to buy his judgment, he cannot claim the money even if it became clear that he truly bought his judgment, such as this claimant who bought it from the seller and afterwards clarified that it was his, and the money he gave was given for nothing; for on the contrary, since a person is prone to buy his judgment, certainly his intention was not to claim his money back, and the seller can say either that he went back and bought it from him and sold it to him afterwards, or that he gave it to him as a gift. And so the Rashba, of blessed memory, ruled regarding one who bought a single piece of land twice and claims the second payment from the seller: if the seller claims that he went back and bought it from the buyer and went back and sold it to him, he is believed, for since he performed an act of acquisition, it is complete proof that he went back and sold it to him. And if the seller does not claim thus, but rather claims \"you gave it to me as a gift,\" if the seller has a migo that he could have said \"you did not buy from me twice\" because there are no witnesses to the matter, he is believed to say that he gave them to him as a gift. And if there are witnesses to this, the buyer must clarify why he bought it twice; if he said that he erred, or if he clarifies that he was under duress and was forced into this, he is believed and he returns the second payment [it seems to me]. And if he said that he knew and was not under duress, the law is with the seller, for certainly he gave it to him as a gift, and it is like one who betrothes his sister, as we establish in Even HaEzer siman 50 that the money is a gift. And even though in siman 373 it will be explained regarding one who buys a stolen field that the money is a deposit and not a gift, here we are witnesses that he would not have given a deposit to this seller, since he has the ability to say that he went back and bought it from him or some other claim; even if he is not believed, nevertheless he would not deposit with him. This is not the case in siman 373, where it can be said that for the time being his desire was to do a favor for the victim of the robbery and to remove the field from the hand of the robber, and therefore he gave him the money, and his intention was for the sake of a deposit, for for the most part a person does not give gifts; but here, who forced him to this? [And the difficulty of the Shach and the Urim VeTumim and the Netivot HaMishpat is resolved]. And even though it will be explained in siman 354 that when one buys an object from a notorious thief, the thief does not need to return the money and they are a gift—and why do we not say also that his desire was to do a favor for the victim of the theft to return his object and his intention was for the sake of a deposit? For regarding movable property, they do not have such importance that we should say this reasoning, as one can buy others in their place; and furthermore, he would not trust a notorious thief to deposit with him [it seems to me]. And it is similar to what is written in siman 220 regarding one who sold a yoke, that the money is a gift, and in siman 232 regarding one who found an excess in the money, see there [see Bava Batra 78b, Tosafot beginning with \"But\"].",
+          "tokens_in": 1783,
+          "tokens_out": 782,
+          "tokens_thinking": 13037,
+          "tokens_cached": null,
+          "tokens_total": 15602,
+          "latency_s": 61.13
+        }
+      }
+    },
+    {
+      "siman_num": 290,
+      "seif_num": 36,
+      "hebrew": "אין ב\"ד יכולים למנות אפוטרופוס להאמינו בלא שבועה אא\"כ אינם מוצאים אדם הגון שירצה להיות אפוטרופוס אם לא יאמינוהו בלא שבועה דאז בהכרח ממנים מי שהגון לכך ופוטרים אותו משבועה ומ\"מ קבלה סתם אומרים הב\"ד דהא אין אומרים נגדו מפורש ולא יקפיד [נ\"ל] וכשמשביעין אפוטרופוס שבועה בנק\"ח שהיא שבועת המשנה צריך שיטענו אותו לפחות שתי כסף ופרוטה ויכפור בשתי כסף ויודה בפרוטה כדין שבועת התורה שנתבאר בסי' פ\"ח וכמ\"ש בסי' צ\"ג בכל שבועות ספק אבל אם לא היתה טענה או כפירה והודאה כשיעור זה אם טוענין אותו טענת ודאי נשבע היסת כבכל טענות דעלמא ומגלגל עליו שלא עיכב בידו משלו כלום:",
+      "levels": {
+        "MINIMAL": {
+          "translation": "A beit din cannot appoint an apotropus to be trusted without an oath unless they cannot find a decent person who is willing to be an apotropus if they do not trust him without an oath; for then, by necessity, they appoint one who is decent for this and exempt him from an oath. Nevertheless, for a standard acceptance, the beit din speaks, as they do not speak explicitly against him and he will not be particular [it appears to me]. And when they administer an oath to an apotropus with a sacred object, which is the oath of the Mishnah, they must claim against him at least two kesef and a perutah, and he must deny two kesef and admit to a perutah, according to the law of a Torah oath as was explained in siman 88 and as I wrote in siman 93 regarding all oaths of doubt. But if there was no claim or denial and admission of this measure, if they claim against him a certain claim, he swears a hesset oath as with all general claims, and they include through gilgul that he did not withhold anything of theirs in his possession.",
+          "tokens_in": 1255,
+          "tokens_out": 239,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1494,
+          "latency_s": 1.94
+        },
+        "LOW": {
+          "translation": "A beit din cannot appoint an apotropus to be trusted without an oath unless they cannot find a decent person who would be willing to be an apotropus if they do not trust him without an oath, for then, out of necessity, they appoint someone who is fit for it and exempt him from an oath. Nevertheless, for a standard acceptance, the beit din speaks, for they do not speak explicitly against him and he will not be particular [it seems to me]. And when they administer an oath to an apotropus with a sacred object, which is the oath of the Mishnah, they must claim against him at least two silver ma'ah and a perutah, and he must deny two silver ma'ah and admit to a perutah, according to the law of a Torah oath as explained in siman 88 and as written in siman 93 regarding all oaths of doubt. But if there was no claim or denial and admission of this amount, if they claim against him a certain claim, he swears a hesset oath as with all general claims, and they include through gilgul that he did not withhold anything of theirs in his possession.",
+          "tokens_in": 1255,
+          "tokens_out": 243,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1498,
+          "latency_s": 2.15
+        },
+        "MEDIUM": {
+          "translation": "A beit din cannot appoint an apotropos to trust him without an oath unless they do not find a worthy person who wants to be an apotropos if they do not trust him without an oath, for then, out of necessity, they appoint someone who is worthy for this and exempt him from an oath. And nevertheless, the beit din says a general acceptance, for they do not say it explicitly against him and he will not be particular [it seems to me]. And when they administer an oath to an apotropos with the holding of a sacred object, which is the oath of the Mishnah, it is necessary that they claim against him at least two silver and a perutah, and he denies the two silver and admits to the perutah, according to the law of a Torah oath that was explained in siman 88, and as written in siman 93 regarding all oaths of doubt. But if there was no claim or denial and admission of this amount, if they claim against him a certain claim, he swears a shevuat hesset as with all general claims, and rolls upon him that he did not withhold anything of his in his hand.",
+          "tokens_in": 1255,
+          "tokens_out": 243,
+          "tokens_thinking": 12843,
+          "tokens_cached": null,
+          "tokens_total": 14341,
+          "latency_s": 59.58
+        },
+        "HIGH": {
+          "translation": "Beit din cannot appoint an apotropos to trust him without an oath unless they do not find a worthy person who will agree to be an apotropos if they do not trust him without an oath, for then, out of necessity, they appoint one who is worthy for this and exempt him from an oath. And nevertheless, the beit din says a general acceptance, for they do not say it explicitly against him, and he will not object [it seems to me]. And when they administer an oath to an apotropos with a sacred object, which is the oath of the Mishnah, it is necessary that they claim against him at least two kesef and a perutah, and he denies two kesef and admits to a perutah, according to the law of a Torah oath that was explained in siman 88, and as was written in siman 93 regarding all oaths of doubt. But if there was no claim or denial and admission of this amount, if they claim against him a certain claim, he swears a hesset oath as with all general claims, and rolls upon him that he did not withhold anything of his in his hand.",
+          "tokens_in": 1255,
+          "tokens_out": 242,
+          "tokens_thinking": 7729,
+          "tokens_cached": null,
+          "tokens_total": 9226,
+          "latency_s": 37.89
+        }
+      }
+    },
+    {
+      "siman_num": 216,
+      "seif_num": 9,
+      "hebrew": "מהיכן מודדין האמות מהעיקר הרחב של האילנות שהוא מקום יציאת האילן מן הארץ שהיא עבה ואם האילנות עומדים כסגול או שהיו מקורבים פחות מד\"א או מרוחקים יותר מט\"ז או שלקחן זה אחר זה או שמכר לו שנים בשדהו ואחד על המצר או שנים בתוך שלו ואחד בתוך של חבירו כגון שיש לו שני אילנות בקצה שדהו ויש לו עוד אילן אחד שקנה בשדה חבירו הסמוכה להן עם הקרקע ומכר אלו השלשה לאחד [רשב\"ם] או שיש הפסק בור או אמת המים או רה\"ר בין האילנות הרי זה אין לו קרקע וכן כשהפסיק ביניהם הרכבת דקלים הרבה [גמ'] לא קנה הקרקע ובכל אלו לבד כשאין עומדים כסגול בעיא היא בגמ' ולא איפשיטא וכל ספק מוקמינן בחזקת המוכר ותפיסה לא מהני בקרקע שתמיד עומדת בחזקת בעלים הראשונים [הה\"מ] ואפי' אם נטען הלוקח לאחר שיבשו ואכל הפירות מוציאין מידו אפי' לדעת הפוסקים דמהני תפיסא בספיקא דדינא דכיון דבאילנות אין לו תפיסה ממילא דהפירות ברשות המוכר הן [נ\"ל] ובכל אלו לא קנה גם האילנות הקטנות שביניהן ואם יבשו האילנות או נקצצו ילך לו ובכל מקום שנתבאר שאם יבשו האילנות אין לו ליטע אחרים תחתיהן זהו דווקא כשנקצצו ואין גזען מחליף וצריך ליטע אחרים אבל אם גזעו מחליף אין זה אילן חדש אלא כעולה מן הגזע דמי ושייך לבעל האילן:",
+      "levels": {
+        "MINIMAL": {
+          "translation": "From where do they measure the amot? From the wide base of the trees, which is the place where the tree emerges from the earth, which is thick. And if the trees stand like a segol, or if they were closer than four amot or further than sixteen, or if he bought them one after another, or if he sold him two in his field and one on the border, or two within his own and one within his fellow's—for example, if he has two trees at the edge of his field and he has one more tree that he bought in his fellow's field adjacent to them along with the ground, and he sold these three to one person [Rashbam]—or if there is an interruption of a pit or a water channel or a public domain between the trees, behold, this person does not have ground. And similarly, when a grafting of many palms interrupted between them [Gemara], he did not acquire the ground. And in all of these, except for when they do not stand like a segol, it is an inquiry in the Gemara and was not resolved, and every doubt we establish in the possession of the seller; and seizing does not avail regarding ground, which always stands in the possession of the original owners [Maggid Mishneh]. And even if the buyer claims after they dried up and he ate the fruits, they remove it from his hand even according to the opinion of the poskim that seizing avails in a legal doubt, for since regarding the trees he has no seizing, automatically the fruits are in the domain of the seller [it appears to me]. And in all of these, he also did not acquire the small trees that are between them, and if the trees dried up or were cut down, he must go away. And in every place where it was explained that if the trees dried up he may not plant others in their place, this is specifically when they were cut down and their trunk does not regrow and he must plant others; but if its trunk regrows, this is not a new tree, but rather it is considered as rising from the trunk and belongs to the owner of the tree.",
+          "tokens_in": 1471,
+          "tokens_out": 447,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1918,
+          "latency_s": 3.06
+        },
+        "LOW": {
+          "translation": "From where do we measure the cubits? From the wide base of the trees, which is the place where the tree emerges from the earth, which is thick. And if the trees stand in a triangle, or if they were closer than four cubits or further than sixteen, or if he bought them one after another, or if he sold him two in his field and one on the border, or two within his own and one within his fellow's—for example, if he has two trees at the edge of his field and he has another tree that he bought in his fellow's field adjacent to them with the land, and he sold these three to one person [Rashbam]—or if there is an interruption of a pit or a water channel or a public domain between the trees, behold, this person does not have land. And similarly, when a graft of many palms interrupted between them [Gemara], he did not acquire the land. And in all of these, except for when they do not stand in a triangle, it is an inquiry in the Gemara and was not resolved, and every doubt we establish in the possession of the seller; and seizing does not avail regarding land, which always remains in the possession of the original owners [Maggid Mishneh]. And even if the buyer claims after they dried up and he ate the fruits, we remove them from his hand, even according to the opinion of the poskim that seizing avails in a legal doubt, for since regarding the trees he has no seizing, automatically the fruits are in the domain of the seller [it appears to me]. And in all of these, he also did not acquire the small trees that are between them, and if the trees dried up or were cut down, he must go. And in every place where it was explained that if the trees dried up he may not plant others in their place, this is specifically when they were cut down and their trunk does not grow back and he needs to plant others, but if its trunk grows back, this is not a new tree, but rather it is considered as rising from the trunk and belongs to the owner of the tree.",
+          "tokens_in": 1471,
+          "tokens_out": 444,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1915,
+          "latency_s": 2.99
+        },
+        "MEDIUM": {
+          "translation": "From where do we measure the amot? From the wide base of the trees, which is the place where the tree emerges from the earth, which is thick. And if the trees stand as a segol, or if they were closer than four amot or further than sixteen, or if he bought them one after the other, or if he sold him two in his field and one on the metzar, or two within his own and one within his fellow's—for example, he has two trees at the edge of his field and he has one more tree that he bought in his fellow's field adjacent to them with the land, and he sold these three to one [the Rashbam]—or if there is an interruption of a pit or a water channel or a reshut harabim between the trees, behold, this one does not have land. And likewise, when a row of many palms interrupted between them [Gemara], he did not acquire the land. And in all these, except for when they do not stand as a segol, it is an inquiry in the Gemara and was not resolved; and every doubt we establish in the presumption of the seller, and tefisa is not effective regarding land, which always stands in the presumption of the first owners [the Maggid Mishneh]. And even if the buyer claims after they dried up and he ate the fruits, we remove from his hand, even according to the opinion of the poskim that tefisa is effective in a safeka de-dina; for since regarding the trees he has no tefisa, automatically the fruits are in the domain of the seller [it appears to me]. And in all these, he also did not acquire the small trees that are between them; and if the trees dried up or were cut down, he must go. And in every place where it was explained that if the trees dried up he may not plant others in their place, this is specifically when they were cut down and their stump does not regenerate and he needs to plant others; but if its stump regenerates, this is not a new tree, but rather it is considered as rising from the stump and belongs to the owner of the tree.",
+          "tokens_in": 1471,
+          "tokens_out": 458,
+          "tokens_thinking": 15293,
+          "tokens_cached": null,
+          "tokens_total": 17222,
+          "latency_s": 69.92
+        },
+        "HIGH": {
+          "translation": "From where do we measure the cubits? From the wide base of the trees, which is the place where the tree emerges from the earth, which is thick. And if the trees stand like a segol, or if they were closer than four cubits or further than sixteen, or if he purchased them one after another, or if he sold him two in his field and one on the boundary, or two within his own and one within his fellow's—for example, if he has two trees at the edge of his field and he has another tree that he bought in his fellow's field adjacent to them with the land, and he sold these three to one [Rashbam]—or if there is an interruption of a pit or a water channel or a public domain between the trees, behold, this [person] has no land. And similarly, when a row of many palm trees interrupted between them [Gemara], he did not acquire the land. And in all these, except when they do not stand like a segol, it is an inquiry in the Gemara and it was not resolved. And every doubt we establish in the possession of the seller, and seizing does not avail regarding land, which always stands in the possession of the first owners [the Maggid Mishneh]. And even if the buyer claims after they dried up and he ate the fruits, we remove [them] from his hand, even according to the opinion of the poskim that seizing avails in a legal doubt, for since regarding the trees he has no seizure, automatically the fruits are in the domain of the seller [it appears to me]. And in all these, he also did not acquire the small trees that are between them. And if the trees dried up or were cut down, he shall go his way. And in every place where it was explained that if the trees dried up he may not plant others in their place, this is specifically when they were cut down and their trunk does not regenerate and he must plant others; but if its trunk regenerates, this is not a new tree, but rather it is considered as rising from the trunk and belongs to the owner of the tree.",
+          "tokens_in": 1471,
+          "tokens_out": 448,
+          "tokens_thinking": 23039,
+          "tokens_cached": null,
+          "tokens_total": 24958,
+          "latency_s": 98.15
+        }
+      }
+    },
+    {
+      "siman_num": 312,
+      "seif_num": 19,
+      "hebrew": "שכר סתם ונפל בית המשכיר שהיה דר בו ואין לו בית אחר זולת בית השוכר ה\"ז יכול להוציא את השוכר מביתו אף בלא הודעה ל' יום מקודם ואף בימות הגשמים דאומר לו אינו בדין שתהיה אתה יושב בביתי עד שתמצא מקום ואני אהיה מושלך ברחוב הרי לא שכרת לזמן ואין אתה בעל זכות בביתי מפני שאתה דר בה יותר ממני וההודעה אינה אלא כדי למצא דירה וממילא כיון שביתי היא הנני בעל זכות בה יותר ממך [עי' בש\"ע סעיף י\"א ודוק] ודוקא בשכר סתם אבל בשוכר לזמן ידוע אינו יכול להוציאו תוך הזמן כמ\"ש דעל הזמן הזה הוה כשלו ממש ויש להסתפק בחנות בשכר סתם ונפלה חנותו של המשכיר אם יכול להוציאו כיון שלהשוכר יש בזה הפסד חובות ולהמשכיר אין נ\"מ אם יתיישב בחנות זה או בחנות אחר כיון שלא ישב בה מקודם ונראה שאינו יכול להוציאו:",
+      "levels": {
+        "MINIMAL": {
+          "translation": "If one rented without a specified term and the house of the lessor where he was living fell, and he has no other house besides the house of the lessee, he may evict the lessee from his house even without thirty days' prior notice and even during the rainy season. For he says to him: It is not right that you should sit in my house until you find a place while I am cast out in the street; behold, you did not rent for a set time, and you are not a holder of a right in my house such that you should dwell in it more than I, and the notice is only so that one may find an apartment, and automatically since it is my house, I am the holder of the right in it more than you [see in the Shulchan Aruch, seif 11, and examine carefully]. And this is specifically when he rented without a specified term, but if he rented for a known time, he cannot evict him within the time, as has been written, for during this time it is like his own. And there is a doubt regarding a shop rented without a specified term where the shop of the lessor fell, whether he can evict him, since for the lessee there is a loss of debts in this, and for the lessor there is no difference whether he settles in this shop or in another shop since he did not sit in it previously; and it appears that he cannot evict him.",
+          "tokens_in": 1289,
+          "tokens_out": 301,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1590,
+          "latency_s": 2.39
+        },
+        "LOW": {
+          "translation": "If one rented without a specified term and the house of the lessor where he was living fell, and he has no other house besides the house of the lessee, he may remove the lessee from his house even without thirty days' prior notice and even during the rainy season, for he says to him: It is not right that you should sit in my house until you find a place while I am cast out in the street; behold, you did not rent for a set time and you are not a possessor of rights in my house such that you should dwell in it more than I, and the notice is only in order to find an apartment, and automatically, since it is my house, I am the possessor of rights in it more than you [see in the Shulchan Aruch, seif 11, and examine closely]. And this is specifically when he rented without a specified term, but in the case of one who rents for a known time, he cannot remove him within the time, as I have written, for regarding this time it is like his very own. And there is a doubt regarding a shop rented without a specified term where the shop of the lessor fell, whether he can remove him, since for the lessee there is a loss of debts in this, and for the lessor there is no difference whether he settles in this shop or in another shop since he did not sit in it previously, and it appears that he cannot remove him.",
+          "tokens_in": 1289,
+          "tokens_out": 301,
+          "tokens_thinking": null,
+          "tokens_cached": null,
+          "tokens_total": 1590,
+          "latency_s": 2.24
+        },
+        "MEDIUM": {
+          "translation": "[If one] rented without a specified term and the house of the landlord in which he was living fell, and he has no other house except for the house of the renter, behold, he is able to evict the renter from his house even without thirty days' prior notice and even during the rainy season, for he says to him: It is not right that you should be sitting in my house until you find a place, while I am cast out in the street. Behold, you did not rent for a [fixed] time, and you are not a holder of a right in my house because you live in it more than I [do], and the notice is only in order to find a dwelling; and automatically, since it is my house, I am the holder of a right in it more than you [see in the Shulchan Aruch, seif 11, and examine closely]. And specifically in [a case where] he rented without a specified term, but in [a case of] one who rents for a known time, he cannot evict him within the time, as has been written, for regarding this time, it is like his own property. And there is a doubt regarding a shop [rented] without a specified term and the landlord's shop fell, whether he can evict him, since for the renter there is in this a loss of debts, and for the landlord there is no difference if he settles in this shop or in another shop, since he did not sit in it previously; and it appears that he cannot evict him.",
+          "tokens_in": 1289,
+          "tokens_out": 327,
+          "tokens_thinking": 5152,
+          "tokens_cached": null,
+          "tokens_total": 6768,
+          "latency_s": 26.73
+        },
+        "HIGH": {
+          "translation": "One who rented without a fixed term and the landlord's house in which he was living collapsed, and he has no other house besides the tenant's house, behold, he may evict the tenant from his house even without thirty days' prior notice and even during the rainy season, for he says to him: It is not right that you should sit in my house until you find a place while I am cast out into the street; behold, you did not rent for a fixed time and you are not the holder of a right in my house because you live in it more than I, and the notice is only in order to find a dwelling, and consequently, since it is my house, I am the holder of a right in it more than you [see Shulchan Aruch, seif 11, and examine carefully]. And specifically in a case of renting without a fixed term, but in a case of renting for a known time, he cannot evict him within the time, as has been written, for during this time it is like his very own. And there is a doubt regarding a shop rented without a fixed term and the landlord's shop collapsed, whether he can evict him, since for the tenant there is a loss of debts in this, and for the landlord there is no difference whether he settles in this shop or in another shop since he did not sit in it previously, and it appears that he cannot evict him.",
+          "tokens_in": 1289,
+          "tokens_out": 302,
+          "tokens_thinking": 9905,
+          "tokens_cached": null,
+          "tokens_total": 11496,
+          "latency_s": 46.39
+        }
+      }
+    }
+  ]
+}
